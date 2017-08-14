@@ -1,0 +1,53 @@
+
+<footer class="site-footer">
+
+    <div class="wrapper">
+
+        <div class="footer-text">
+            <h4 class="footer-heading">Like what you see?</h4>
+
+            <h5>Get in touch!</h5>
+        </div>
+
+        <div>
+            <div class="social-media">
+                <ul class="social-media-list">
+                    {% if site.email %}
+                    <li>
+                        <a href="mailto:{{ site.email }}">
+                            <i class="fa fa-envelope"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+
+                    {% if site.linkedin_username %}
+                    <li>
+                        <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+                            <i class="fa fa-linkedin"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+
+                    {% if site.github_username %}
+                    <li>
+                        <a href="https://github.com/{{ site.github_username }}">
+                            <i class="fa fa-github"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+
+                    {% if site.gamejolt_username %}
+                    <li>
+                        <a href="https://gamejolt.com/@{{ site.gamejolt_username }}#close">
+                            <i class="fa fa-bolt"></i>
+                        </a>
+                    </li>
+                    {% endif %}
+
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+</footer>
