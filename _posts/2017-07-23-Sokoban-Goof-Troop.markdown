@@ -13,17 +13,17 @@ This game was developed in C# using the [XNA framework][wikipedia-xna] just like
 The GIF below shows the main game mechanic, the player kicking the cubes into one direction.
 
 {:.p-center}
-![Main game mechanic]({{ site.url }}/assets/images/sokoban_goof_troop/Kicking-Mechanic.gif)
+![Main game mechanic]({{ site.baseurl }}/assets/images/sokoban_goof_troop/Kicking-Mechanic.gif)
 
 All twelve puzzles from Goof Troop were implemented in some form or another to fit the game. Below two puzzles are shown.
 
 <DIV class="figure-block">
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/sokoban_goof_troop/Level1.png" alt="Goof Troop Level 1"/>
+        <img src="{{site.baseurl}}/assets/images/sokoban_goof_troop/Level1.png" alt="Goof Troop Level 1"/>
         <figcaption>Goof Troop Level 1</figcaption>
     </figure>
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/sokoban_goof_troop/Level2.png" alt="Goof Troop Level 2"/>
+        <img src="{{site.baseurl}}/assets/images/sokoban_goof_troop/Level2.png" alt="Goof Troop Level 2"/>
         <figcaption>Goof Troop Level 2</figcaption>
     </figure>
 </DIV>

@@ -18,7 +18,7 @@ email: GracesGamesBV@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Game Development and Tools
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "GracesGames.GitHub.io"
+url: "https:://GracesGames.GitHub.io"
 github_username:  GracesGames
 gamejolt_username: GracesGames
 linkedin_username: robin-ten-buuren-aa8ba580

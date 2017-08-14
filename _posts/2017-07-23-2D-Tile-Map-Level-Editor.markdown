@@ -15,11 +15,11 @@ An impression of the initial version was posted [here][reddit-demo] on Reddit, t
 
 <DIV class="figure-block">
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/2D_tile_map_level_editor/Platformer-Preview.png" alt="Platformer Preview"/>
+        <img src="{{site.baseurl}}/assets/images/2D_tile_map_level_editor/Platformer-Preview.png" alt="Platformer Preview"/>
         <figcaption>Platformer Preview</figcaption>
     </figure>
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/2D_tile_map_level_editor/Sokoban-Preview.png" alt="Sokoban Preview"/>
+        <img src="{{site.baseurl}}/assets/images/2D_tile_map_level_editor/Sokoban-Preview.png" alt="Sokoban Preview"/>
         <figcaption>Sokoban Preview</figcaption>
     </figure>
 </DIV>

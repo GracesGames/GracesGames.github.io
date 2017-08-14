@@ -14,19 +14,19 @@ These images give an impressive of the game. First the player can setup his army
 
 <DIV class="figure-block">
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/stratego_kam/ArmyPlacement.png" alt="Army Placement"/>
+        <img src="{{site.baseurl}}/assets/images/stratego_kam/ArmyPlacement.png" alt="Army Placement"/>
         <figcaption>Allow the player to setup the army</figcaption>
     </figure>
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/stratego_kam/Ingame.png" alt="Ingame"/>
+        <img src="{{site.baseurl}}/assets/images/stratego_kam/Ingame.png" alt="Ingame"/>
         <figcaption>Beginning of the battle</figcaption>
     </figure>
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/stratego_kam/Midgame.png" alt="Midgame"/>
+        <img src="{{site.baseurl}}/assets/images/stratego_kam/Midgame.png" alt="Midgame"/>
         <figcaption>On the winning side</figcaption>
     </figure>
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/stratego_kam/Victory.png" alt="Victory"/>
+        <img src="{{site.baseurl}}/assets/images/stratego_kam/Victory.png" alt="Victory"/>
         <figcaption>Victory</figcaption>
     </figure>
 </DIV>

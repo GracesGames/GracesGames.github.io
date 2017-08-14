@@ -17,11 +17,11 @@ After creating a first prototype together, I focused on extending the game by im
 
 <DIV class="figure-block">
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/the_floor_is_lava/Menu.png" alt="TheFloorIsLava Menu"/>
+        <img src="{{site.vaseurl}}/assets/images/the_floor_is_lava/Menu.png" alt="TheFloorIsLava Menu"/>
         <figcaption>TheFloorIsLava Menu</figcaption>
     </figure>
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/the_floor_is_lava/Ingame.png" alt="TheFloorIsLava Game"/>
+        <img src="{{site.baseurl}}/assets/images/the_floor_is_lava/Ingame.png" alt="TheFloorIsLava Game"/>
         <figcaption>TheFloorIsLava Game</figcaption>
     </figure>
 </DIV>

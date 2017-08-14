@@ -14,11 +14,11 @@ The image below shows a side by side comparison of a [Sokoban - Goof Troop][gg-s
 
 <DIV class="figure-block">
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/sokoban_goof_troop/Level1.png" alt="Goof Troop level"/>
+        <img src="{{site.baseurl}}/assets/images/sokoban_goof_troop/Level1.png" alt="Goof Troop level"/>
         <figcaption>Goof Troop Level</figcaption>
     </figure>
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/kick_it/Kick-It-Index-Image.png" alt="Kick-It level"/>
+        <img src="{{site.baseurl}}/assets/images/kick_it/Kick-It-Index-Image.png" alt="Kick-It level"/>
         <figcaption>Kick-It Level</figcaption>
     </figure>
 </DIV>

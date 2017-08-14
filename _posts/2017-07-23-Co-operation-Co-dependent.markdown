@@ -23,11 +23,11 @@ First a prototype was developed using the [Unreal Engine 4][unreal-engine-4], bu
 
 <DIV class="figure-block">
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/cooperation_codependent/Version0.1.png" alt="Version 0.1"/>
+        <img src="{{site.baseurl}}/assets/images/cooperation_codependent/Version0.1.png" alt="Version 0.1"/>
         <figcaption>Version 0.1</figcaption>
     </figure>
     <figure class="center-image">
-        <img src="{{site.url}}/assets/images/cooperation_codependent/Version0.5.png" alt="Version 0.5"/>
+        <img src="{{site.baseurl}}/assets/images/cooperation_codependent/Version0.5.png" alt="Version 0.5"/>
         <figcaption>Version 0.5</figcaption>
     </figure>
 </DIV>
