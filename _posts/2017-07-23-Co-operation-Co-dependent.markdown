@@ -19,7 +19,7 @@ In the endless runner, the player controls a runner character with the goal to s
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ttoEdCzgCxA" frameborder="0" allowfullscreen ></iframe>
 </DIV>
 
-First a prototype was developed using the [Unreal Engine 4][unreal-engine-4], but after determining the lack of two-player keyboard support, the switch to [Unity Engine][unity-3d] and C# was made. The newly released 2D support of Unity sped up the development process significantly, resulting in a gameplay prototype. After that, the game was polished for several iterations using the resources from [Kenney][kenney] and version 0.5 was created.
+First a prototype was developed using [Unreal Engine 4][unreal-engine-4], but after determining the lack of two-player keyboard support, the switch to [Unity Engine][unity-3d] and C# was made. The newly released 2D support of Unity sped up the development process significantly, resulting in a gameplay prototype. After that, the game was polished for several iterations using the resources from [Kenney][kenney] and version 0.5 was created.
 
 <DIV class="figure-block">
     <figure class="center-image">
