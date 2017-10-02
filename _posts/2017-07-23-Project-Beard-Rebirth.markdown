@@ -3,7 +3,7 @@ layout: post
 title:  Project Beard Rebirth
 date:   2017-07-23 06:00:00 +0200
 categories: Unity Web
-image: ../assets/images/project_beard_rebirth/PBR-Thumbnail.png
+image: ../assets/images/project_beard_rebirth/PBR-Thumbnail-v2.png
 ---
 
 {:.p-center}
