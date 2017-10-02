@@ -31,10 +31,11 @@
 }
 
 .post-index-image {
-    min-height: 1px;
+    margin-top: -15px;
+    margin-bottom: -34px;
     height: auto;
     width: 30%;
-    padding: 1px;
+    padding: 2px;
     display: inline-block;
     float: none;
     vertical-align: top;
@@ -45,7 +46,6 @@ a.post-link {
     height: 244px;
     background-repeat: no-repeat;
     background-position: center;
-    background-color: #242320;
 }
 
 .post-title {
