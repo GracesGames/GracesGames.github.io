@@ -1,9 +1,11 @@
 ---
-layout: post
+layout: default
+modal-id: 9
 title:  Stratego - Knights and Merchants
-date:   2017-07-23 00:00:00 +0200
-categories: XNA/MonoGame Windows
-image: ../assets/images/stratego_kam/KAM-Index-Image.png
+date: 2014-07-10
+img: KAM-Index-Image.png
+alt: Knights-And-Merchants
+project-date: April 2014
 ---
 
 Inspired by the childhood nostalgia of the game [Knights and Merchants: The Shattered Kingdom][wikipedia-kam], my first developed game was the board game [Stratego][wikipedia-stratego]. A board game was chosen since they are simpler to developed using the turn system and the absence of simulating (real-time) physics. The board game Stratego fitted the different types of soldiers of the Knights and Merchants quite well and was not as complicated rule-wise.
@@ -14,19 +16,19 @@ These images give an impressive of the game. First the player can setup his army
 
 <DIV class="figure-block">
     <figure class="center-image">
-        <img src="{{site.baseurl}}/assets/images/stratego_kam/ArmyPlacement.png" alt="Army Placement"/>
+        <img src="{{site.baseurl}}/assets/images/stratego_kam/ArmyPlacement.png" class="img-responsive img-centered" alt="Army Placement"/>
         <figcaption>Allow the player to setup the army</figcaption>
     </figure>
     <figure class="center-image">
-        <img src="{{site.baseurl}}/assets/images/stratego_kam/Ingame.png" alt="Ingame"/>
+        <img src="{{site.baseurl}}/assets/images/stratego_kam/Ingame.png" class="img-responsive img-centered" alt="Ingame"/>
         <figcaption>Beginning of the battle</figcaption>
     </figure>
     <figure class="center-image">
-        <img src="{{site.baseurl}}/assets/images/stratego_kam/Midgame.png" alt="Midgame"/>
+        <img src="{{site.baseurl}}/assets/images/stratego_kam/Midgame.png" class="img-responsive img-centered" alt="Midgame"/>
         <figcaption>On the winning side</figcaption>
     </figure>
     <figure class="center-image">
-        <img src="{{site.baseurl}}/assets/images/stratego_kam/Victory.png" alt="Victory"/>
+        <img src="{{site.baseurl}}/assets/images/stratego_kam/Victory.png" class="img-responsive img-centered" alt="Victory"/>
         <figcaption>Victory</figcaption>
     </figure>
 </DIV>

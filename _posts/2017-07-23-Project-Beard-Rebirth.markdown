@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: default
+modal-id: 1
 title:  Project Beard Rebirth
-date:   2017-07-23 06:00:00 +0200
-categories: Unity Web
-image: ../assets/images/project_beard_rebirth/PBR-Thumbnail-v2.png
+date: 2014-07-18
+img: PBR-Thumbnail-v2.png
+alt: Project-Beard-Rebirth
 ---
 
-{:.p-center}
 [PLAY HERE][gamejolt-project-beard-rebirth]
 
 Project Beard:Rebirth originally started as a naval battle adventure, but was recently restyled to a tank-based arena game. It supports up to four players, each ready to destroy the other three and win the game.
@@ -21,16 +21,8 @@ Another important element is that Project Beard:Rebirth is open-source, so anyon
 
 The image below shows a gameplay example and an upgrade ammo example.
 
-<DIV class="figure-block">
-    <figure class="center-image">
-        <img src="{{site.baseurl}}/assets/images/project_beard_rebirth/PBR-Gameplay.png" alt="Gameplay Example"/>
-        <figcaption>Project Beard:Rebirth Gameplay Example</figcaption>
-    </figure>
-    <figure class="center-image">
-        <img src="{{site.baseurl}}/assets/images/project_beard_rebirth/PBR-Special-Ammo.png" alt="Special Ammo Example"/>
-        <figcaption>Special ammo example</figcaption>
-    </figure>
-</DIV>
+<img src="{{site.baseurl}}/assets/images/project_beard_rebirth/PBR-Gameplay.png" class="img-responsive img-centered" alt="Gameplay Example"/>
+<img src="{{site.baseurl}}/assets/images/project_beard_rebirth/PBR-Special-Ammo.png" class="img-responsive img-centered" alt="Special Ammo Example"/>
 
 The game is currently under active development and was released with Early Access status on [GameJolt][gamejolt-project-beard-rebirth]. We still have to work on diversity of maps, ammo, game modes and balancing but wanted to already release the game so people could get interested in working on it.
 

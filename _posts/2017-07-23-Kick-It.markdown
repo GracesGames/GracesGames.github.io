@@ -1,35 +1,25 @@
 ---
-layout: post
+layout: default
+modal-id: 3
 title:  Kick-It
-date:   2017-07-23 04:00:00 +0200
-categories: Unity Web
-image: ../assets/images/kick_it/Kick-It-Index-Image.png
+date: 2014-07-16
+img: Kick-It-Index-Image.png
+alt: Kick-It
 ---
 
-{:.p-center}
 [PLAY HERE][gamejolt-kick-it]
 
-Kick-It is a re-implementation and extension of [Sokoban - Goof Troop][gg-sokoban]. Kick-It uses the same concept and game mechanic for the puzzles, yet extends it with game elements like turrets, exploding blocks etc. Next to that, the game allows the player to create and share levels, using the [2D Tile Map Level Editor][gg-2DTMLE].
+Kick-It is a re-implementation and extension of _Sokoban - Goof Troop_. Kick-It uses the same concept and game mechanic for the puzzles, yet extends it with game elements like turrets, exploding blocks etc. Next to that, the game allows the player to create and share levels, using the _2D Tile Map Level Editor_.
 
 Like many of my other games, Kick-It was developed in C# using the [Unity Engine][unity-3d]. While some of the old projects code could be reused, the physics and other elements were re-implemented in a more modular and extensible way. This also results in simpler building blocks for the level editor. A two-player mode was also added. To prevent copyright violations, resources from [Kenney][kenney] were used again.
 
-The image below shows a side by side comparison of a [Sokoban - Goof Troop][gg-sokoban] level and the (work in progress) reworked version in Kick-It.
+The image below shows a comparison of a _Sokoban - Goof Troop_ level and the (work in progress) reworked version in Kick-It.
 
-<DIV class="figure-block">
-    <figure class="center-image">
-        <img src="{{site.baseurl}}/assets/images/sokoban_goof_troop/Level1.png" alt="Goof Troop level"/>
-        <figcaption>Goof Troop Level</figcaption>
-    </figure>
-    <figure class="center-image">
-        <img src="{{site.baseurl}}/assets/images/kick_it/LevelExample-Square.png" alt="Kick-It level"/>
-        <figcaption>Kick-It Level</figcaption>
-    </figure>
-</DIV>
+<img src="{{site.baseurl}}/assets/images/sokoban_goof_troop/Level1.png" class="img-responsive img-centered" alt="Goof Troop level"/>
+<img src="{{site.baseurl}}/assets/images/kick_it/LevelExample-Scaled.png" class="img-responsive img-centered" alt="Kick-It level"/>
 
 The game is currently under active development and was released with Early Access status on [GameJolt][gamejolt-kick-it]. Additional levels, building blocks and other features can be added based on user feedback.
 
 [gamejolt-kick-it]: https://gamejolt.com/games/kick-it/262925#close
-[gg-sokoban]: {% post_url 2017-07-23-Sokoban-Goof-Troop %}
-[gg-2DTMLE]: {% post_url 2017-07-23-2D-Tile-Map-Level-Editor %}
 [unity-3d]: https://unity3d.com/unity
 [kenney]: https://kenney.nl/

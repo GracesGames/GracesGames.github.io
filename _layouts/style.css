@@ -1,0 +1,6 @@
+{% include css/bootstrap.min.css %}
+{% include css/main.css %}
+
+header, #about, hr.star-light::after {
+    background: #6ead3a
+}

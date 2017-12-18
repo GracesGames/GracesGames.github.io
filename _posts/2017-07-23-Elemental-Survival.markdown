@@ -1,12 +1,12 @@
 ---
-layout: post
+layout: default
+modal-id: 6
 title:  Elemental Survival
-date:   2017-07-23 02:03:00 +0200
-categories: Unreal Engine Web Windows
-image: ../assets/images/elemental_survival/Thumbnail.png
+date: 2014-07-13
+img: ElementalSurvival-Index-Image.png
+alt: Elemental-Survival
 ---
 
-{:.p-center}
 [PLAY HERE][gamejolt-elemental-survival]
 
 After developing a fully working game in the [Unity Engine][unity-3d], it was time to release a game developed using [Unreal Engine 4][unreal-engine-4]. The goal of using the Unreal Engine was to get familiar with C++ since it is the industry de facto programming language. However, to apply agile programming, the plan was to develop a prototype using the new [Blueprints Visual Scripting][blueprints] system, which would then be converted to a C++ project.
@@ -15,8 +15,7 @@ In Elemental Survival, the player has to save mankind by preventing Cronos from 
 
 The player can upgrade his armor and weapon using an elemental pick-up. For example, when the player upgrades his armor with an air element, he becomes faster and can jump higher. Adding a fire element to the weapon causes the minions to burn when hit, dealing additional damage. Each element has their own perks and damage modifiers, making the gameplay more interesting.
 
-{:.p-center}
-![Element Survival Gameplay]({{ site.baseurl }}/assets/images/elemental_survival/Ingame.png)
+<img src="{{ site.baseurl }}/assets/images/elemental_survival/Ingame.png" class="img-responsive img-centered" alt="Element Survival Gameplay">
 
 While currently still under active development, Elemental Survival was released with Early Access status on [GameJolt][gamejolt-elemental-survival]. Developing a 3D, visually attractive game takes a lot of time, especially the animations, visual effects and other such elements.
 

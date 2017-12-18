@@ -1,12 +1,11 @@
 ---
-layout: post
+layout: default
+modal-id: 7
 title:  Co-operation Co-dependent
-date:   2017-07-23 02:00:00 +0200
-categories: Unity Web
-image: ../assets/images/cooperation_codependent/CooperationCodependent-Index-Image.png
+date: 2014-07-12
+img: CooperationCodependent-Index-Image.png
+alt: Cooperation-Codependent
 ---
-
-{:.p-center}
 [PLAY HERE][gamejolt-cooperation-codependent]
 
 Co-operation Co-dependent consists of two sub-games, a space shooter on the top half of the screen and an endless runner on the bottom half. The unique element is that players of both games need each other to survive. By making the players survival dependent on the shared effort of both, the game is a test for true cooperation and teamwork. It is a fun collaborative experience which encourages bonding between people.
@@ -23,11 +22,11 @@ First a prototype was developed using [Unreal Engine 4][unreal-engine-4], but af
 
 <DIV class="figure-block">
     <figure class="center-image">
-        <img src="{{site.baseurl}}/assets/images/cooperation_codependent/Version0.1.png" alt="Version 0.1"/>
+        <img src="{{site.baseurl}}/assets/images/cooperation_codependent/Version0.1.png" class="img-responsive img-centered" alt="Version 0.1"/>
         <figcaption>Version 0.1</figcaption>
     </figure>
     <figure class="center-image">
-        <img src="{{site.baseurl}}/assets/images/cooperation_codependent/Version0.5.png" alt="Version 0.5"/>
+        <img src="{{site.baseurl}}/assets/images/cooperation_codependent/Version0.5.png" class="img-responsive img-centered" alt="Version 0.5"/>
         <figcaption>Version 0.5</figcaption>
     </figure>
 </DIV>
