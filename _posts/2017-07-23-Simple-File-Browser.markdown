@@ -6,6 +6,7 @@ img: Simple-File-Browser-Index-Image.png
 alt: Simple-File-Browser   
 ---
 
+{:.p-center}
 [Unity Asset Store][asset-store] and [Website][website]
 
 After releasing the _2D Tile Map Level Editor_ in the Unity Asset Store, a GitHub issue was created that the project did not build. Having used only the source code version, I confirmed that building was not possible since the Unity Editor namespace was required in the project. The namespace was used for the EditorUtility.OpenFilePanel and EditorUtility.SaveFilePanel methods used to save files.

@@ -7,6 +7,7 @@ img: 2DTileMapLevelEditor-Index-Image.png
 alt: 2D-Tile-Map-Level-Editor
 ---
 
+{:.p-center}
 [Unity Asset Store][asset-store] and [Website][website]
 
 While starting out as an in-house tool for developing _Kick-It_ levels, the 2D Tile Map Level Editor was reworked and released in the Unity Asset Store for free to give other developers the option of adding a level editor to their game and allow for easy level creation.

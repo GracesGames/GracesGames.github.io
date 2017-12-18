@@ -6,6 +6,8 @@ date: 2014-07-12
 img: CooperationCodependent-Index-Image.png
 alt: Cooperation-Codependent
 ---
+
+{:.p-center}
 [PLAY HERE][gamejolt-cooperation-codependent]
 
 Co-operation Co-dependent consists of two sub-games, a space shooter on the top half of the screen and an endless runner on the bottom half. The unique element is that players of both games need each other to survive. By making the players survival dependent on the shared effort of both, the game is a test for true cooperation and teamwork. It is a fun collaborative experience which encourages bonding between people.

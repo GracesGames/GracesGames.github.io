@@ -7,6 +7,7 @@ img: Kick-It-Index-Image.png
 alt: Kick-It
 ---
 
+{:.p-center}
 [PLAY HERE][gamejolt-kick-it]
 
 Kick-It is a re-implementation and extension of _Sokoban - Goof Troop_. Kick-It uses the same concept and game mechanic for the puzzles, yet extends it with game elements like turrets, exploding blocks etc. Next to that, the game allows the player to create and share levels, using the _2D Tile Map Level Editor_.

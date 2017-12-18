@@ -7,6 +7,7 @@ img: PBR-Thumbnail-v2.png
 alt: Project-Beard-Rebirth
 ---
 
+{:.p-center}
 [PLAY HERE][gamejolt-project-beard-rebirth]
 
 Project Beard:Rebirth originally started as a naval battle adventure, but was recently restyled to a tank-based arena game. It supports up to four players, each ready to destroy the other three and win the game.

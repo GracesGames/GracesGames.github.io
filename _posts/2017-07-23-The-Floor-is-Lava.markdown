@@ -7,6 +7,7 @@ img: TheFloorIsLava-Index-Image.png
 alt: TheFloorIsLava
 ---
 
+{:.p-center}
 TheFloorIsLava is currently in Beta in the Play Store.
 
 After developing games for desktop and the browser, I wanted to developed a mobile app. TheFloorIsLava is developed together with [Isa Pfab][isa-pfab]. It is based on the child-hood game [The Floor is Lava][wikipedia-hot-lava] and the popular app [Doodle Jump][doodle-jump], a vertical infinite runner. The goal of the project was to develop and publish a working game for the Google Play Store.

@@ -2,5 +2,19 @@
 {% include css/main.css %}
 
 header, #about, hr.star-light::after {
-    background: #6ead3a
+    background: #6ead3a;
+}
+
+div.modal-body p, #about p {
+    text-align: left;
+    margin: 0 0 30px 0;
+}
+
+div.modal-body p.p-center {
+    text-align: center;
+}
+
+div.figure-block figure.center-image figcaption{
+    margin-top: -15px;
+    padding-bottom: 15px;
 }
