@@ -20,5 +20,5 @@ The Simple File Browser currently supports Windows, Mac and Linux computers and 
 
 The Simple File Browser was released in the [Unity Asset Store][asset-store] and is open source. For more information (features, setup, etc.) see the [website][website]. The editor is under active development to resolve bugs and open for pull and feature requests.
 
-[asset-store]: https://www.assetstore.unity3d.com/en/#!/content/98451
+[asset-store]: https://assetstore.unity.com/packages/tools/input-management/simple-file-browser-98451
 [website]: https://gracesgames.github.io/SimpleFileBrowser/

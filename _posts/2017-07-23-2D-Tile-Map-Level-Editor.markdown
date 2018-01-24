@@ -19,6 +19,6 @@ An impression of the initial version was posted [here][reddit-demo] on Reddit, t
 
 After adding several features, the 2D Tile Map Level Editor was released in the [Unity Asset Store][asset-store] and is open source if users want to change it. For more information (features, setup, etc.) see the [website][website]. The editor is under active development to resolve bugs and open for pull and feature requests.
 
-[asset-store]: https://www.assetstore.unity3d.com/en/#!/content/90420
+[asset-store]: https://assetstore.unity.com/packages/tools/sprite-management/2d-tile-map-level-editor-90420
 [website]: https://gracesgames.github.io/2DTileMapLevelEditor/
 [reddit-demo]: https://www.reddit.com/r/Unity2D/comments/641toe/made_an_2d_ingame_level_editor_anyone_interested/
