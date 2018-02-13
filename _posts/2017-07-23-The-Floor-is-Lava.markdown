@@ -1,20 +1,20 @@
 ---
 layout: default
 modal-id: 5
-title:  TheFloorIsLava
+title:  The Floor is Lava
 date: 2014-07-14
 img: TheFloorIsLava-Index-Image.png
-alt: TheFloorIsLava
+alt: The-Floor-is-Lava
 ---
 
 {:.p-center}
-TheFloorIsLava is available in the [Google Play Store][google-play-store].
+The Floor is Lava is available in the [Google Play Store][google-play-store].
 
-After developing games for desktop and the browser, I wanted to developed a mobile app. TheFloorIsLava is developed together with [Isa Pfab][isa-pfab]. It is based on the child-hood game [The Floor is Lava][wikipedia-hot-lava] and the popular app [Doodle Jump][doodle-jump], a vertical infinite runner. The goal of the project was to develop and publish a working game in the Google Play Store.
+After developing games for desktop and the browser, I wanted to developed a mobile app. The Floor is Lava is developed together with [Isa Pfab][isa-pfab]. It is based on the child-hood game [The Floor is Lava][wikipedia-hot-lava] and the popular app [Doodle Jump][doodle-jump], a vertical infinite runner. The goal of the project was to develop and publish a working game in the Google Play Store.
 
-TheFloorIsLava is again developed in C# using the [Unity Engine][unity-3d], since it offers simplicity for development and makes releasing a version for mobile phone painless. The basis for the game was developed by following this [YouTube Tutorial Series][youtube-tutorial].
+The Floor is Lava is again developed in C# using the [Unity Engine][unity-3d], since it offers simplicity for development and makes releasing a version for mobile phone painless. The basis for the game was developed by following this [YouTube Tutorial Series][youtube-tutorial].
 
-After creating a first prototype together, I focused on extending the game by implementing special furniture (sofas on fire, springs, and moving elements), while [Isa Pfab][isa-pfab] designed the whole theme using self-made graphics, animations and more. The images below show the menu and a gameplay example of TheFloorIsLava.
+After creating a first prototype together, I focused on extending the game by implementing special furniture (sofas on fire, springs, and moving elements), while [Isa Pfab][isa-pfab] designed the whole theme using self-made graphics, animations and more. The images below show the menu and a gameplay example of The Floor is Lava.
 
 <img src="{{ site.baseurl }}/assets/images/the_floor_is_lava/MainMenu.png" class="img-responsive img-centered" alt="TheFloorIsLava Main Menu">
 <img src="{{ site.baseurl }}/assets/images/the_floor_is_lava/Ingame.png" class="img-responsive img-centered" alt="TheFloorIsLava Gameplay">
