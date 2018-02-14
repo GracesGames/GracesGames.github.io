@@ -13,7 +13,9 @@ After releasing two free assets in the Unity Asset Store, it was time to broaden
 
 My goal was to start simple by making a game template for a 2D game. The 2D aspect would reduce the workload with regards to models, rigging, animations, etc. I decided to make a 2D Space Shooter kit, since a space shooter avoids a lot of physics (no gravity). 
 
-The Space Shooter 2D Kit currently supports desktop and web deployment. Mobile support will likely be added in the future. I already decided on a portrait interface to better support the mobile users. 
+The player has to avoid and shoot enemies while collecting several pickups (nukes, shields and more). The game supports several types of enemies that can easily be extended. Example animations, sound effects and background music is provided. The kit includes a playable level, main menu, pause menu and a game over screen. 
+
+The template is created using Blueprints, is fully documented and allows easy customization. The Space Shooter 2D Kit currently supports desktop and web deployment. Mobile support will likely be added in the future. I already decided on a portrait interface to better support the mobile users. 
 
 <img src="{{site.baseurl}}/assets/images/space_shooter_2d_kit/Ingame.png" class="img-responsive img-centered" alt="Ingame"/>
 <img src="{{site.baseurl}}/assets/images/space_shooter_2d_kit/MainMenu.png" class="img-responsive img-centered" alt="MainMenu"/>
