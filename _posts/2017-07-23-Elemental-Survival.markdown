@@ -10,7 +10,7 @@ alt: Elemental-Survival
 {:.p-center}
 [PLAY HERE][gamejolt-elemental-survival]
 
-After developing a fully working game in the [Unity Engine][unity-3d], it was time to release a game developed using [Unreal Engine 4][unreal-engine-4]. The goal of using the Unreal Engine was to get familiar with C++ since it is the industry de facto programming language. However, to apply agile programming, the plan was to develop a prototype using the new [Blueprints Visual Scripting][blueprints] system, which would then be converted to a C++ project.
+After developing a fully working game in the [Unity Engine][unity-3d], it was time to release a game developed using [Unreal Engine 4][unreal-engine-4]. The goal of using the Unreal Engine was to get familiar with C++ since it is the industry de facto programming language. However, to apply agile programming, the plan was to first develop a prototype using the new [Blueprints Visual Scripting][blueprints] system which allowed quick iteration using the WYSIWYG and visual nature. This prototype would then be converted to a C++ project.
 
 In Elemental Survival, the player has to save mankind by preventing Cronos from destroying the four elements, fire, water, earth and air. This can be done by blasting Cronos using element energy spheres, spawned by the element crystals (think Portal with balls). Whenever Cronos is hit, he spawned a minion of a random element. This minion can be killed using the weapon and ammo.
 
