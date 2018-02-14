@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 6
 title:  The Floor is Lava
 date: 2014-07-14
 img: TheFloorIsLava-Index-Image.png
