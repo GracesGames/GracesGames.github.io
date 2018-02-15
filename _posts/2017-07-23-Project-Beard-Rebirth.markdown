@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 1
+modal-id: 2
 title:  Project Beard Rebirth
 date: 2014-07-18
 img: PBR-Thumbnail-v2.png
