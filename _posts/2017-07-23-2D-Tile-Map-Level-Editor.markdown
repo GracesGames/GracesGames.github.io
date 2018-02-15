@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 4
 title: 2D Tile Map Level Editor
-date: 2014-07-15
+date: 2014-07-16
 img: 2DTileMapLevelEditor-Index-Image.png
 alt: 2D-Tile-Map-Level-Editor
 ---
@@ -10,15 +10,29 @@ alt: 2D-Tile-Map-Level-Editor
 {:.p-center}
 [Unity Asset Store][asset-store] and [Website][website]
 
+##### Motivation
 While starting out as an in-house tool for developing _Kick-It_ levels, the 2D Tile Map Level Editor was reworked and released in the Unity Asset Store for free to give other developers the option of adding a level editor to their game and allow for easy level creation.
 
-An impression of the initial version was posted [here][reddit-demo] on Reddit, to determine whether further development would be beneficial. This version was limited in functionality and did not scale according to screen size since it used the deprecated OnGUI method to draw the user interface. The user interface was rebuild using the new Unity Canvas GUI system, to improve user experience.
+##### Gameplay
+
+The 2D Tile Map Level Editor allows developers to create levels in a fast and intuitive manner. It also allows players to create and share their own levels. For a more detailed list of features please refer to the [feature page][feature-page].
+
+##### Technology
+
+An prototype of the level editor was developed using the [Unity Engine][unity-3d] since it was used by the _Kick-It_ game. An impression of this prototype was posted on [Reddit][reddit-demo], to determine whether further development would be beneficial.  
+This version was limited in functionality and did not scale according to screen size since it used the deprecated OnGUI method to draw the user interface. The user interface was rebuild using the new Unity Canvas GUI system, to improve user experience.
+
+##### Status
+
+After adding several features, the 2D Tile Map Level Editor was released in the [Unity Asset Store][asset-store] and is open source for users to customize. For more information (features, setup, and more) see the [website][website]. The editor is under active development to resolve bugs and open for pull and feature requests.
+
+##### Visuals
 
 <img src="{{ site.baseurl}}/assets/images/2D_tile_map_level_editor/Platformer-Preview.png" class="img-responsive img-centered" alt="Platformer Preview<">
 <img src="{{site.baseurl}}/assets/images/2D_tile_map_level_editor/Sokoban-Preview.png" class="img-responsive img-centered" alt="Sokoban Preview"/>
 
-After adding several features, the 2D Tile Map Level Editor was released in the [Unity Asset Store][asset-store] and is open source if users want to change it. For more information (features, setup, etc.) see the [website][website]. The editor is under active development to resolve bugs and open for pull and feature requests.
-
 [asset-store]: https://assetstore.unity.com/packages/tools/sprite-management/2d-tile-map-level-editor-90420
 [website]: https://gracesgames.github.io/2DTileMapLevelEditor/
+[feature-page]: https://gracesgames.github.io/2DTileMapLevelEditor/features/
+[unity-3d]: https://unity3d.com/unity
 [reddit-demo]: https://www.reddit.com/r/Unity2D/comments/641toe/made_an_2d_ingame_level_editor_anyone_interested/

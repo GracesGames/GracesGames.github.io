@@ -10,11 +10,27 @@ alt: The-Floor-is-Lava
 {:.p-center}
 The Floor is Lava is available in the [Google Play Store][google-play-store].
 
-After developing games for desktop and the browser, I wanted to developed a mobile app. The Floor is Lava is developed together with [Isa Pfab][isa-pfab]. It is based on the child-hood game [The Floor is Lava][wikipedia-hot-lava] and the popular app [Doodle Jump][doodle-jump], a vertical infinite runner. The goal of the project was to develop and publish a working game in the Google Play Store.
+##### Motivation
 
-The Floor is Lava is again developed in C# using the [Unity Engine][unity-3d], since it offers simplicity for development and makes releasing a version for mobile phone painless. The basis for the game was developed by following this [YouTube Tutorial Series][youtube-tutorial].
+After developing games for desktop and the browser, it was time to expand to the mobile app market. The goal of the project was to develop and publish a working game in the Google Play Store.  
+The Floor is Lava is also the first collaboration project and was developed together with [Isa Pfab][isa-pfab]. 
 
-After creating a first prototype together, I focused on extending the game by implementing special furniture (sofas on fire, springs, and moving elements), while [Isa Pfab][isa-pfab] designed the whole theme using self-made graphics, animations and more. The images below show the menu and a gameplay example of The Floor is Lava.
+##### Gameplay
+
+The Floor is Lava is based on the child-hood game [The Floor is Lava][wikipedia-hot-lava] and the popular app [Doodle Jump][doodle-jump], a vertical infinite runner.  
+The player has to jump on different pieces of furniture to get higher into the level and achieve a higher score. If the player touches the lava floor, the game is over. There are also burning furniture pieces which will kill the player, but those can be extinguished using the squirt gun.  
+While there are a lot of common furniture pieces, there are also some special ones. The glass table will break after usage, while the broken chair, with visible spring, will give player a jump boost. The Roomba is moving horizontally and harder to land on.  
+
+##### Technology
+
+The Floor is Lava is again developed in C# using the [Unity Engine][unity-3d], since it offers simplicity for development and makes releasing a mobile application painless. The basis for the game was developed by following this [YouTube Tutorial Series][youtube-tutorial].  
+After creating a first prototype together, I focused on extending the game by implementing special furniture (sofas on fire, springs, and moving elements), while [Isa Pfab][isa-pfab] designed the whole theme using self-made graphics, animations and more. 
+
+##### Status
+
+After being in beta for quite a while, The Floor is Lava was released with in the [Google Play Store][google-play-store]. This achieved the original goal and we decided to move on to other projects.
+
+##### Visuals
 
 <img src="{{ site.baseurl }}/assets/images/the_floor_is_lava/MainMenu.png" class="img-responsive img-centered" alt="TheFloorIsLava Main Menu">
 <img src="{{ site.baseurl }}/assets/images/the_floor_is_lava/Ingame.png" class="img-responsive img-centered" alt="TheFloorIsLava Gameplay">

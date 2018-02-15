@@ -8,11 +8,30 @@ alt: Knights-And-Merchants
 project-date: April 2014
 ---
 
-Inspired by the childhood nostalgia of the game [Knights and Merchants: The Shattered Kingdom][wikipedia-kam], my first developed game was the board game [Stratego][wikipedia-stratego]. A board game was chosen since they are simpler to developed using the turn system and the absence of simulating (real-time) physics. The board game Stratego fitted the different types of soldiers of the Knights and Merchants quite well and was not as complicated rule-wise.
+##### Motivation
 
-This game was developed in C# using the [XNA framework][wikipedia-xna]. First a 2D tile engine was developed using a tutorial from [this book][book-xna], which is used to determine the click on and movement of the different game board spaces. The game manager determines the turn and the game logic. Sprites and songs were ripped from the Knights and Merchants CD using tools found online.
+Inspired by the childhood nostalgia of the game [Knights and Merchants: The Shattered Kingdom][wikipedia-kam], my first developed game was the board game [Stratego][wikipedia-stratego]. 
 
-These images give an impressive of the game. First the player can setup his army and save/load his favorite setup strategies. The chosen setup is then used for the game while the AI chooses a setup. Each turn the player can move a soldier according to the Stratego rules as shown in the mid-battle image. When the game is over, the statistics are shown.
+A board game was chosen since the turn-based system results in less complexity and also removes the need to simulate (real-time) physics.   
+Stratego fitted the different types of soldiers of the Knights and Merchants quite well and its rules complied to the used grid system.
+
+##### Gameplay
+
+Each game of Stratego starts with the setup phase, where both players place their army on the field. When completed, the game start turn-based until one of the players captures the other player's flag.   
+Each turn, the player moves an piece on the board and when the new location contains an enemy piece, a battle starts.   
+The general rule is higher numbers beat lower numbers, but there are some special pieces like the bomb which can be swept by the miner. For more information please read [Stratego][wikipedia-stratego].
+
+##### Technology
+
+This game was developed in C# using the [XNA framework][wikipedia-xna]. First a 2D tile engine was developed using a tutorial from [this book][book-xna], which is used to determine the click on and movement of the different game board spaces.  
+The sprites and songs were ripped from the Knights and Merchants CD using third-party tools.
+
+##### Status
+
+The game is currently not in development anymore even though it has been successfully converted to the [MonoGame framework][monogame] after the XNA framework discontinued.  
+It is not available online because copyright laws would be violated, but should be seen as a tribute to the classic Knights and Merchants game.
+
+##### Visuals
 
 <DIV class="figure-block">
     <figure class="center-image">
@@ -32,8 +51,6 @@ These images give an impressive of the game. First the player can setup his army
         <figcaption>Victory</figcaption>
     </figure>
 </DIV>
-
-The game is currently not in development anymore even though it has been successfully converted to the [MonoGame framework][monogame] since the XNA framework is discontinued. It is not available online because copyright laws would be violated, but should be seen as a tribute to the classic Knights and Merchants game.
 
 [wikipedia-kam]: https://en.wikipedia.org/wiki/Knights_and_Merchants:_The_Shattered_Kingdom
 [wikipedia-stratego]: https://en.wikipedia.org/wiki/Stratego

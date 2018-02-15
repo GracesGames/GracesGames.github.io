@@ -10,22 +10,36 @@ alt: Project-Beard-Rebirth
 {:.p-center}
 [PLAY HERE][gamejolt-project-beard-rebirth]
 
-Project Beard:Rebirth originally started as a naval battle adventure, but was recently restyled to a tank-based arena game. It supports up to four players, each ready to destroy the other three and win the game.
+##### Motivation
 
-The players start with an ordinary tank but can pick-up different power ups. For example, the Sniper power-up which greatly increase the range of the tank but also reduces its fire rate. There are of course several more power-ups.
+Project Beard Rebirth is another collaboration project which I used to improve my project and team planning experience. We developed this game using three team members, all software engineers.   
+The original game (Project Beard) was a naval battle adventure, but we decided to restyle it to a tank-based arena game. 
+
+##### Gameplay
+
+Project Beard Rebirth supports up to four players, each ready to destroy the other three and win the game.  
+The players start with an ordinary tank but can pick-up different power ups. For example, the Sniper power-up which greatly increase the range of the tank but also reduces its fire rate. There are of course several more power-ups.  
 
 Next to that are the different ammo types. Instead of just hitting an enemy, the projectiles can become capable of penetrating armour or explode on impact. Beware though, explosion damage could destroy your own tank.
 
-Like many of my other games, Project Beard:Rebirth was developed in C# using the [Unity Engine][unity-3d]. The goal of this project was to gain experience developing a game with a team. We developed this game using three team members, all software engineers.
+##### Technology
 
-Another important element is that Project Beard:Rebirth is open-source, so anyone can clone the project or add cool features to it. It could also act as an example for other programmers. To prevent copyright violations, resources from [Kenney][kenney] were used again.
+Like many of my other games, Project Beard:Rebirth was developed in C# using the [Unity Engine][unity-3d].  
+Another important element is that Project Beard:Rebirth is open-source, so anyone can clone the project or add cool features to it. It could also act as an example for other programmers.   
+To prevent copyright violations, public domain resources from [Kenney][kenney] were used again.
+
+##### Status
+
+The game is currently stalled due to relocation reasons and was released with Early Access status on [GameJolt][gamejolt-project-beard-rebirth]. We still have ideas to improve diversity of maps, ammo, game modes and balancing but wanted to release the game so people could get interested in working on it.
+
+##### Visuals
 
 The image below shows a gameplay example and an upgrade ammo example.
 
 <img src="{{site.baseurl}}/assets/images/project_beard_rebirth/PBR-Gameplay.png" class="img-responsive img-centered" alt="Gameplay Example"/>
 <img src="{{site.baseurl}}/assets/images/project_beard_rebirth/PBR-Special-Ammo.png" class="img-responsive img-centered" alt="Special Ammo Example"/>
 
-The game is currently under active development and was released with Early Access status on [GameJolt][gamejolt-project-beard-rebirth]. We still have to work on diversity of maps, ammo, game modes and balancing but wanted to already release the game so people could get interested in working on it.
+
 
 [gamejolt-project-beard-rebirth]: https://gamejolt.com/games/Project_Beard_Rebirth/277210#close
 [unity-3d]: https://unity3d.com/unity
