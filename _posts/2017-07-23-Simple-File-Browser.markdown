@@ -11,9 +11,9 @@ alt: Simple-File-Browser
 
 ##### Motivation
 
-After releasing the _2D Tile Map Level Editor_ in the Unity Asset Store, a GitHub issue was created that the project did not build. Having used only the source code version, I confirmed that building was not possible since the Unity Editor namespace was required in the project. The namespace was used for the EditorUtility.OpenFilePanel and EditorUtility.SaveFilePanel methods used to save files.
+After releasing the _2D Tile Map Level Editor_ in the Unity Asset Store, a GitHub issue was created that the project did not build. Having used only the source code version until then, I confirmed that building was not possible since the Unity Editor namespace was required in the project. The namespace was used for the EditorUtility.OpenFilePanel and EditorUtility.SaveFilePanel methods used to save files.
 
-A solution to this problem, would be to create my own file browser. After some research, I also noticed a great lack of free and open source file browser in the Unity Asset Store. So I created the Simple File Browser, which allows the user to browser their file system and to save and load file. 
+A solution to this problem, would be to create my own file browser. After some research, I also noticed a great lack of free and open source file browsers in the Unity Asset Store. So, I created the Simple File Browser, which allows the user to browse their file system and to save and load files. 
 
 ##### Gameplay
 
@@ -21,7 +21,7 @@ The Simple File Browser allows users to browse their file system inside Unity an
 
 ##### Technology
 
-The Simple File Browser was developed using the [Unity Engine][unity-3d] since it was used by the _2D Tile Map Level Editor_ and the _Kick It_ game. The Simple File Browser currently supports Windows, Mac and Linux computers and Android mobile devices, while iOS might be supported but is untested. A portrait interface was developed to better support mobile users. 
+The Simple File Browser was developed using the [Unity Engine][unity-3d] since it is used in the _2D Tile Map Level Editor_ and the _Kick It_ game. The Simple File Browser currently supports Windows, Mac and Linux systems and Android devices, while iOS might be supported but this is untested. A portrait interface was developed to better support mobile users. 
 
 ##### Status
 

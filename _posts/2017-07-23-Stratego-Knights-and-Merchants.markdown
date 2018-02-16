@@ -13,22 +13,23 @@ project-date: April 2014
 Inspired by the childhood nostalgia of the game [Knights and Merchants: The Shattered Kingdom][wikipedia-kam], my first developed game was the board game [Stratego][wikipedia-stratego]. 
 
 A board game was chosen since the turn-based system results in less complexity and also removes the need to simulate (real-time) physics.   
-Stratego fitted the different types of soldiers of the Knights and Merchants quite well and its rules complied to the used grid system.
+Stratego fitted the different types of Knights and Merchants soldiers quite well and its rules complied to the used grid system and tile engine.
 
 ##### Gameplay
 
-Each game of Stratego starts with the setup phase, where both players place their army on the field. When completed, the game start turn-based until one of the players captures the other player's flag.   
-Each turn, the player moves an piece on the board and when the new location contains an enemy piece, a battle starts.   
-The general rule is higher numbers beat lower numbers, but there are some special pieces like the bomb which can be swept by the miner. For more information please read [Stratego][wikipedia-stratego].
+Each game of Stratego starts with the setup phase, where both players place their army on the field. When completed, the game starts turn-based until one of the players captures the other player's flag.   
+Each turn, the player moves a piece on the board and when the new location contains an enemy piece, a soldier battle starts.   
+The general rule is that soldiers with higher numbers beat lower numbers, but there are some special pieces like the bomb which can only be swept by the miner.  
+For more information please read the [Stratego Wikipedia][wikipedia-stratego].
 
 ##### Technology
 
-This game was developed in C# using the [XNA framework][wikipedia-xna]. First a 2D tile engine was developed using a tutorial from [this book][book-xna], which is used to determine the click on and movement of the different game board spaces.  
+This game was developed in C# using the [XNA framework][wikipedia-xna]. First a 2D tile engine was developed using a tutorial from [this book][book-xna], which is used to determine the click events and movement of the different soldiers.  
 The sprites and songs were ripped from the Knights and Merchants CD using third-party tools.
 
 ##### Status
 
-The game is currently not in development anymore even though it has been successfully converted to the [MonoGame framework][monogame] after the XNA framework discontinued.  
+The game is not in development anymore even though it has been successfully converted to the [MonoGame framework][monogame] after the XNA framework discontinued.  
 It is not available online because copyright laws would be violated, but should be seen as a tribute to the classic Knights and Merchants game.
 
 ##### Visuals

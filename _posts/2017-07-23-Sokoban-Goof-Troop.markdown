@@ -21,13 +21,14 @@ Each puzzle contains several movable cubes, and a set of goal positions. The GIF
 
 ##### Technology
 
-This game was developed in C# using the [XNA framework][wikipedia-xna] just like _Stratego - Knights and Merchants_. The developed 2D tile engine was extended to simulate the physics and determine the win condition (every cube is correctly placed on the empty spots).  
+This game was developed in C# using the [XNA framework][wikipedia-xna] just like _Stratego - Knights and Merchants_.  
+The developed 2D tile engine was extended to simulate physics and determine the new win condition (every cube is correctly placed on the empty spots).  
 Sprites and songs were ripped from the Goof Troop ROM using third-party tools.
 
 ##### Status
 
-The game is currently not in development anymore even though it has been successfully converted to the [MonoGame framework][monogame] after the XNA framework discontinued.  
-It is not available online because copyright laws would be violated, but should be seen as a tribute to the classic Goof Troop game. It's puzzle concept is however reused in the game _Kick-It_.
+The game is not in development anymore even though it has been successfully converted to the [MonoGame framework][monogame] after the XNA framework discontinued.  
+It is not available online because copyright laws would be violated, but should be seen as a tribute to the classic Goof Troop game. It's puzzle concept is however reused in _Kick-It_.
 
 ##### Visuals
 

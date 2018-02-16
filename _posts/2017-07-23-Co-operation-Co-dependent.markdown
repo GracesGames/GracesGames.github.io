@@ -12,8 +12,8 @@ alt: Cooperation-Codependent
 
 ##### Motivation
 
-After developing two games that could not be released due to copyright laws (ripped assets), it was time to create an game from idea to release.  
-My favorite game type are co-operative games, since they allow players to achieve a common goal. By playing together, the fun is greater than the sum of its parts. This motivated me to create a game in which the players are co-dependent.
+After developing two games that could not be released due to copyright laws (ripped assets), it was time to create a game from idea to release.  
+My favorite games are co-operative games, since they allow players to achieve a common goal. By playing together, the fun is greater than the sum of its parts. This pushed me to create a game in which the players are co-dependent.
 
 ##### Gameplay
 
@@ -21,7 +21,7 @@ Co-operation Co-dependent consists of two sub-games, a space shooter on the top 
 
 In the space shooter, the player controls a spaceship with the goal to shoot and avoid the enemy spaceships while trying to collect hearts. These hearts increase the shared health pool, thereby keeping the players alive. If either player collides with an enemy, the team's health is reduced.
 
-In the endless runner, the player controls a runner character with the goal to survive the endless spree of enemies and pitfalls, while collecting bullets. These bullets are used by the spaceship player to shoot enemies. Both players can also pick up diamonds to further increase their score.
+In the endless runner, the player controls a runner character with the goal to survive the endless spree of enemies and pitfalls, while collecting bullets along the way. These bullets are used by the spaceship player to shoot enemies. Both players can also pick up diamonds to further increase their shared score.
 
 <DIV class="figure-block">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ttoEdCzgCxA" frameborder="0" allowfullscreen ></iframe>
@@ -30,8 +30,8 @@ In the endless runner, the player controls a runner character with the goal to s
 ##### Technology
 
 The first prototype was developed using [Unreal Engine 4][unreal-engine-4], yet after determining the lack of two-player keyboard support, I switched to [Unity Engine][unity-3d] and C#.  
-The newly released 2D support of Unity sped up the development process significantly, resulting in a gameplay prototype (version 0.1).  
-After that, the game was polished for several iterations using the resources from [Kenney][kenney] and version 0.5 was created.
+The (then newly released) 2D support of Unity sped up the development process significantly, resulting in a gameplay prototype (version 0.1).  
+After that, the game was polished multiple times using the resources from [Kenney][kenney] and version 0.5 was created.
 
 ##### Status
 
@@ -39,7 +39,7 @@ After several iterations, Co-operation Co-dependent was released with Early Acce
 
 ##### Visuals
 
-The screenshots give a good indication of the progress:
+These screenshots show the progress between versions:
 
 <DIV class="figure-block">
     <figure class="center-image">

@@ -11,7 +11,7 @@ alt: 2D-Tile-Map-Level-Editor
 [Unity Asset Store][asset-store] and [Website][website]
 
 ##### Motivation
-While starting out as an in-house tool for developing _Kick-It_ levels, the 2D Tile Map Level Editor was reworked and released in the Unity Asset Store for free to give other developers the option of adding a level editor to their game and allow for easy level creation.
+The 2D Tile Map Level Editor starting out as an in-house tool for developing _Kick-It_ levels but was reworked and released in the Unity Asset Store for free to give other developers the option of adding a level editor to their game and allow easy level creation by players.
 
 ##### Gameplay
 
@@ -19,7 +19,7 @@ The 2D Tile Map Level Editor allows developers to create levels in a fast and in
 
 ##### Technology
 
-An prototype of the level editor was developed using the [Unity Engine][unity-3d] since it was used by the _Kick-It_ game. An impression of this prototype was posted on [Reddit][reddit-demo], to determine whether further development would be beneficial.  
+A prototype of the level editor was developed using the [Unity Engine][unity-3d] since it is used in the _Kick-It_ game. An impression of this prototype was posted on [Reddit][reddit-demo], to determine whether further development would be beneficial.  
 This version was limited in functionality and did not scale according to screen size since it used the deprecated OnGUI method to draw the user interface. The user interface was rebuild using the new Unity Canvas GUI system, to improve user experience.
 
 ##### Status

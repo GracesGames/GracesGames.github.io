@@ -12,16 +12,16 @@ alt: Kick-It
 
 ##### Motivation
 
-Kick-It is a re-implementation and extension of _Sokoban - Goof Troop_. This time, the game uses public domain assets, thereby allowing it to be published. By using the _2D Tile Map Level Editor_, the game also allows the player to create and share levels. 
+Kick-It is a re-implementation and extension of _Sokoban - Goof Troop_. This time, the game uses public domain assets, thereby allowing it to be published. By using the _2D Tile Map Level Editor_, the game also allows the players to create and share levels. 
 
 ##### Gameplay
 
-Kick-It uses the same concept and game mechanic for the puzzles, yet extends it with game elements like turrets, exploding blocks and more. 
+Kick-It uses the same concept and game mechanic for the puzzles, yet extends it with game elements such as turrets, directional arrows and more. 
 
 ##### Technology
 
 Like many of my other games, Kick-It was developed in C# using the [Unity Engine][unity-3d]. While some of the _Sokoban - Goof Troop_ code could be reused, the physics and other elements were re-implemented in a more modular and extensible way. This also resulted in simpler building blocks for the level editor.  
-In addition, and matching the original [Goof Troop][wikipedia-goof-troop] game, a two-player mode was added. This also makes the puzzle solving more fun.  
+In addition, and matching the original [Goof Troop][wikipedia-goof-troop] game, a two-player mode was added. This also makes solving puzzles more fun.  
 To prevent copyright violations, public domain resources from [Kenney][kenney] were used.
 
 ##### Status
@@ -30,7 +30,7 @@ The game is currently under active development and already released with Early A
 
 ##### Visuals
 
-The images below shows a comparison of a _Sokoban - Goof Troop_ level and the (work in progress) reworked version in Kick-It.
+The images below show a comparison of the original _Sokoban - Goof Troop_ level and the (work in progress) rework in Kick-It.
 
 <img src="{{site.baseurl}}/assets/images/sokoban_goof_troop/Level1.png" class="img-responsive img-centered" alt="Goof Troop level"/>
 <img src="{{site.baseurl}}/assets/images/kick_it/LevelExample-Scaled.png" class="img-responsive img-centered" alt="Kick-It level"/>
