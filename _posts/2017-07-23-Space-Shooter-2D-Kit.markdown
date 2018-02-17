@@ -33,7 +33,7 @@ The template is created using Blueprints, is fully documented and allows easy cu
 
 ##### Status
 
-The Space Shooter 2D Kit is available in the Unreal Marketplace. For more information (features, documentation and more) see the [website][website]. The kit is under active development to resolve bugs, add features and open for suggestion and feedback.
+The Space Shooter 2D Kit is available in the [Unreal Marketplace][unreal-marketplace]. For more information (features, documentation and more) see the [website][website]. The kit is under active development to resolve bugs, add features and open for suggestion and feedback.
 
 ##### Visuals
 
