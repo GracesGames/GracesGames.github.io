@@ -7,7 +7,7 @@ alt: Space-Shooter-2D-Kit
 ---
 
 {:.p-center}
-In review for the [Unreal Marketplace][unreal-marketplace] and [Website][website]
+[Unreal Marketplace][unreal-marketplace] and [Website][website]
 
 ##### Motivation
 
@@ -33,13 +33,13 @@ The template is created using Blueprints, is fully documented and allows easy cu
 
 ##### Status
 
-The Space Shooter 2D Kit is currently under review for a release in the Unreal Marketplace. For more information (features, documentation and more) see the [website][website]. The kit is under active development to resolve bugs, add features and open for suggestion and feedback.
+The Space Shooter 2D Kit is available in the Unreal Marketplace. For more information (features, documentation and more) see the [website][website]. The kit is under active development to resolve bugs, add features and open for suggestion and feedback.
 
 ##### Visuals
 
 <img src="{{site.baseurl}}/assets/images/space_shooter_2d_kit/Ingame.png" class="img-responsive img-centered" alt="Ingame"/>
 <img src="{{site.baseurl}}/assets/images/space_shooter_2d_kit/MainMenu.png" class="img-responsive img-centered" alt="MainMenu"/>
 
-[unreal-marketplace]: https://www.unrealengine.com/marketplace
+[unreal-marketplace]: https://www.unrealengine.com/marketplace/space-shooter-2d-kit
 [website]: https://gracesgames.github.io/SpaceShooter2DKit/
 [feature-page]: https://gracesgames.github.io/SpaceShooter2DKit/features/
