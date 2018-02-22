@@ -23,13 +23,13 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: envelope # Email
+  - title: fa fa-fw fa-envelope # Email
     url: mailto:GracesGamesBV@gmail.com
-  - title: linkedin
+  - title: fa fa-fw fa-linkedin
     url: https://linkedin.com/in/robin-ten-buuren-aa8ba580
-  - title: github
+  - title: fa fa-fw fa-github
     url: https://github.com/GracesGames
-  - title: bolt # Game Jolt
+  - title: fa fa-fw fa-bolt # Game Jolt
     url: https://gamejolt.com/@GracesGames#close
 
 # Build settings
