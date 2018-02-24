@@ -1,11 +1,12 @@
 # Site settings
 title: Graces Games
+author: Graces Games
 email: GracesGamesBV@gmail.com
 url: https://GracesGames.github.io
 description: "Game Development and Tools"
-keywords: "graces, games, development, tools, unity, unreal"
+keywords: "graces, games, graces games, development, tools, unity, unreal"
 skills: "Game Development and Tools"
-meta_author: ten Buuren Robin
+meta_author: Graces Games
 
 google_analytics: UA-99027396-2
 
@@ -37,3 +38,7 @@ social:
 # Build settings
 markdown: kramdown
 permalink: /project/:title
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
