@@ -29,7 +29,7 @@ For a more detailed list of features please refer to the [feature page][feature-
 
 ##### Technology
 
-The template is created using Blueprints, is fully documented and allows easy customization. The Space Shooter 2D Kit currently supports desktop and web deployment. Mobile support will likely be added in the future. The portrait interface was already chosen to better support the mobile users. 
+The template is created using Blueprints, is fully documented and allows easy customization. The Space Shooter 2D Kit currently supports desktop and mobile deployment. WebGL support will likely be added in the future. The portrait interface was chosen to better support mobile users. 
 
 ##### Status
 
