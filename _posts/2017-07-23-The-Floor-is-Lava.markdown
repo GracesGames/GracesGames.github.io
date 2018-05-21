@@ -33,8 +33,8 @@ After being in beta for quite a while, The Floor is Lava was released in the [Go
 
 ##### Visuals
 
-<img src="{{ site.baseurl }}/assets/images/the_floor_is_lava/MainMenu.png" class="img-responsive img-centered" alt="TheFloorIsLava Main Menu">
 <img src="{{ site.baseurl }}/assets/images/the_floor_is_lava/Ingame.png" class="img-responsive img-centered" alt="TheFloorIsLava Gameplay">
+<img src="{{ site.baseurl }}/assets/images/the_floor_is_lava/MainMenu.png" class="img-responsive img-centered" alt="TheFloorIsLava Main Menu">
 
 [google-play-store]: https://play.google.com/store/apps/details?id=com.GracesGames.TheFloorIsLava
 [isa-pfab]: http://isa-pfab.com/
