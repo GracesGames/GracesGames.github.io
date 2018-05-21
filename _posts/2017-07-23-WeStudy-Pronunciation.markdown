@@ -11,7 +11,7 @@ To be released in the [Google Play Store][google-play-store] and [Apple App Stor
 
 ##### Motivation
 
-While working in a co-working space in Hanoi, Vietnam I was approached by the founder of WeStudy with the request to make a game for them.  
+While working in a co-working space in Hanoi, Vietnam I was approached by the founder of [WeStudy][westudy] with the request to make a game for them.  
 WeStudy is an online learning service that aims to provide quality online courses. The goal of the game was to let users practice their English pronunciation while having fun.  
 The project allowed me to get in touch with new technologies (Speech-to-Text), and get my first experience working on a (remote) freelance project.
 
@@ -38,6 +38,7 @@ WeStudy Pronunciation is currently under development and will be released in the
 
 [google-play-store]: https://play.google.com/store
 [apple-app-store]: https://www.apple.com/lae/ios/app-store/
+[westudy]: https://westudy.vn/
 [unity-3d]: https://unity3d.com/unity
 [speech-to-text]: https://assetstore.unity.com/packages/tools/audio/mobile-speech-recognizer-73036
 [kenney]: https://kenney.nl/
