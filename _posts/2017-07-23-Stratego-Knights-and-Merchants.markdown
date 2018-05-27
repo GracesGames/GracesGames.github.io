@@ -5,7 +5,8 @@ title:  Stratego - Knights and Merchants
 date: 2014-07-10
 img: KAM-Index-Image.png
 alt: Knights-And-Merchants
-project-date: April 2014
+tool: XNA
+language: C#
 ---
 
 ##### Motivation

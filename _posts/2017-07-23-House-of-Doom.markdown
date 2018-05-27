@@ -4,9 +4,9 @@ modal-id: 1
 date: 2014-07-21
 img: HouseOfDoom-Index-Image.png
 alt: House-of-Doom
+tool: Unreal Engine 4
+language: C++
 ---
-
-##### **Work in Progress**
 
 {:.p-center}
 [Source Code][github-house-of-doom]
