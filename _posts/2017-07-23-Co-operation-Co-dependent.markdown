@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 7
+modal-id: 8
 title:  Co-operation Co-dependent
 date: 2014-07-12
 img: CooperationCodependent-Index-Image.png
@@ -12,7 +12,7 @@ alt: Cooperation-Codependent
 
 ##### Motivation
 
-After developing two games that could not be released due to copyright laws (ripped assets), it was time to create a game from idea to release.  
+After developing several games that could not be released due to copyright laws (ripped assets), it was time to create a game from idea to release.  
 My favorite games are co-operative games, since they allow players to achieve a common goal. By playing together, the fun is greater than the sum of its parts. This pushed me to create a game in which the players are co-dependent.
 
 ##### Gameplay
