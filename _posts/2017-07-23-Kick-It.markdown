@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 6
 title:  Kick-It
 date: 2014-07-15
 img: Kick-It-Index-Image.png
@@ -12,9 +12,15 @@ alt: Kick-It
 
 ##### Motivation
 
-Kick-It is a re-implementation and extension of _Sokoban - Goof Troop_. This time, the game uses public domain assets, thereby allowing it to be published. By using the _2D Tile Map Level Editor_, the game also allows the players to create and share levels. 
+Kick-It is a re-implementation and extension of my [XNA][wikipedia-xna] game called _Sokoban - Goof Troop_, which is a trimmed down clone of the SNES game [Goof Troop][wikipedia-goof-troop]. It focuses on the [Sokoban][wikipedia-sokoban] inspired puzzles of the game.
+
+Where the XNA demo used ripped assets, this time the game uses public domain assets, thereby allowing it to be published. By using the _2D Tile Map Level Editor_, the game also allows the players to create and share levels. 
 
 ##### Gameplay
+
+Each puzzle contains several movable cubes, and a set of goal positions. The GIF below shows the main game mechanic from the XNA demo, the player kicking the cubes into one direction. The catch is that once a cube is moving, it can only by stopped by colliding with another level piece. 
+
+<img src="{{ site.baseurl }}/assets/images/sokoban_goof_troop/Kicking-Mechanic.gif" class="img-responsive img-centered" alt="Main game mechanic">
 
 Kick-It uses the same concept and game mechanic for the puzzles, yet extends it with game elements such as turrets, directional arrows and more. 
 
@@ -26,16 +32,18 @@ To prevent copyright violations, public domain resources from [Kenney][kenney] w
 
 ##### Status
 
-The game is currently under active development and already released with Early Access status on [GameJolt][gamejolt-kick-it]. Additional levels, building blocks and other features will be added based on user feedback.
+The game is currently on hold to focus on other projects, but a prototype is already released with Early Access status on [GameJolt][gamejolt-kick-it]. Additional levels, building blocks and other features will be added at a later moment.
 
 ##### Visuals
 
 The images below show a comparison of the original _Sokoban - Goof Troop_ level and the (work in progress) rework in Kick-It.
 
 <img src="{{site.baseurl}}/assets/images/sokoban_goof_troop/Level1.png" class="img-responsive img-centered" alt="Goof Troop level"/>
-<img src="{{site.baseurl}}/assets/images/kick_it/LevelExample-Scaled.png" class="img-responsive img-centered" alt="Kick-It level"/>
+<img src="{{site.baseurl}}/assets/images/kick_it/Kick-It-Goof-Troop-1.png" class="img-responsive img-centered" alt="Kick-It level"/>
 
+[wikipedia-xna]: https://en.wikipedia.org/wiki/Microsoft_XNA
+[wikipedia-goof-troop]: https://en.wikipedia.org/wiki/Goof_Troop_(video_game)
+[wikipedia-sokoban]: https://en.wikipedia.org/wiki/Sokoban
 [gamejolt-kick-it]: https://gamejolt.com/games/kick-it/262925#close
 [unity-3d]: https://unity3d.com/unity
-[wikipedia-goof-troop]: https://en.wikipedia.org/wiki/Goof_Troop_(video_game)
 [kenney]: https://kenney.nl/
