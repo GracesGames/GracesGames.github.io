@@ -8,7 +8,7 @@ alt: Kick-It
 ---
 
 {:.p-center}
-[PLAY HERE][gamejolt-kick-it]
+[Play Here][gamejolt-kick-it]
 
 ##### Motivation
 

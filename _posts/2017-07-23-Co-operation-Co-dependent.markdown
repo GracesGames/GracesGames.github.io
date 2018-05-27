@@ -8,7 +8,7 @@ alt: Cooperation-Codependent
 ---
 
 {:.p-center}
-[PLAY HERE][gamejolt-cooperation-codependent]
+[Play Here][gamejolt-cooperation-codependent]
 
 ##### Motivation
 
