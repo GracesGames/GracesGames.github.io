@@ -9,7 +9,7 @@ language: C++
 ---
 
 {:.p-center}
-[Source Code][github-house-of-doom]
+[Source Code][github-house-of-doom] and [Website][website]
 
 ##### Motivation
 
@@ -39,6 +39,7 @@ House of Doom is under active development, adding new features, enemies and more
 <img src="{{ site.baseurl }}/assets/images/house_of_doom/Ingame.png" class="img-responsive img-centered" alt="House of Doom Gameplay">
 
 [github-house-of-doom]: https://github.com/GracesGames/UnrealFreedoom
+[website]: https://gracesgames.github.io/UnrealFreedoom/
 [sfml]: https://www.sfml-dev.org/
 [unreal-engine-4]: https://www.unrealengine.com/en-US/what-is-unreal-engine-4
 [packt-cpp-book]: https://www.packtpub.com/game-development/beginning-c-game-programming
