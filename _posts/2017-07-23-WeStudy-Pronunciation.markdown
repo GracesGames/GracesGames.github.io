@@ -9,7 +9,8 @@ language: C#
 ---
 
 {:.p-center}
-To be released in the [Google Play Store][google-play-store]{:target="_blank"} and [Apple App Store][apple-app-store]{:target="_blank"}
+To be released in the [Google Play Store][google-play-store]{:target="_blank"} and [Apple App Store][apple-app-store]{:target="_blank"}  
+Only available in Vietnam due to privacy policies
 
 ##### Motivation
 
@@ -31,7 +32,7 @@ Public domain assets from [Kenney][kenney]{:target="_blank"} were used.
 
 ##### Status
 
-WeStudy Pronunciation is currently under development and will be released in the [Google Play Store][google-play-store]{:target="_blank"} and [Apple App Store][apple-app-store]{:target="_blank"}. 
+WeStudy Pronunciation is currently under development and will be released in the [Google Play Store][google-play-store]{:target="_blank"} and [Apple App Store][apple-app-store]{:target="_blank"}. The game will only be released in Vietnam due to privacy policies.
 
 ##### Visuals
 
