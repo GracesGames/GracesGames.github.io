@@ -9,11 +9,11 @@ language: C#
 ---
 
 {:.p-center}
-To be released in the [Google Play Store][google-play-store] and [Apple App Store][apple-app-store]
+To be released in the [Google Play Store][google-play-store]{:target="_blank"} and [Apple App Store][apple-app-store]{:target="_blank"}
 
 ##### Motivation
 
-While working in a co-working space in Hanoi, Vietnam I was approached by the founder of [WeStudy][westudy] with the request to make a game for them.  
+While working in a co-working space in Hanoi, Vietnam I was approached by the founder of [WeStudy][westudy]{:target="_blank"} with the request to make a game for them.  
 WeStudy is an online learning service that aims to provide quality online courses. The goal of the game was to let users practice their English pronunciation while having fun.  
 The project allowed me to get in touch with new technologies (Speech-to-Text), and get my first experience working on a (remote) freelance project.
 
@@ -25,13 +25,13 @@ The game is over when the predefined amount of words is completed or the health 
 
 ##### Technology
 
-WeStudy Pronunciation is developed in C# using the [Unity Engine][unity-3d], since it allows a single code base while releasing for both Android and iOS.   
-The game uses an external Speech-to-Text module, available in the [Unity Asset Store][speech-to-text], which support Speech-to-Text for both Android and iOS.  
-Public domain assets from [Kenney][kenney] were used.
+WeStudy Pronunciation is developed in C# using the [Unity Engine][unity-3d]{:target="_blank"}, since it allows a single code base while releasing for both Android and iOS.   
+The game uses an external Speech-to-Text module, available in the [Unity Asset Store][speech-to-text]{:target="_blank"}, which support Speech-to-Text for both Android and iOS.  
+Public domain assets from [Kenney][kenney]{:target="_blank"} were used.
 
 ##### Status
 
-WeStudy Pronunciation is currently under development and will be released in the [Google Play Store][google-play-store] and [Apple App Store][apple-app-store]. 
+WeStudy Pronunciation is currently under development and will be released in the [Google Play Store][google-play-store]{:target="_blank"} and [Apple App Store][apple-app-store]{:target="_blank"}. 
 
 ##### Visuals
 

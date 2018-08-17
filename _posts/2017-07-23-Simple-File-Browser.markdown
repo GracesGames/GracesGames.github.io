@@ -9,7 +9,7 @@ language: C#
 ---
 
 {:.p-center}
-[Unity Asset Store][asset-store] and [Website][website]
+[Unity Asset Store][asset-store]{:target="_blank"} and [Website][website]{:target="_blank"}
 
 ##### Motivation
 
@@ -19,15 +19,15 @@ A solution to this problem, would be to create my own file browser. After some r
 
 ##### Gameplay
 
-The Simple File Browser allows users to browse their file system inside Unity and save and load files without any dependencies e.g. the UnityEditor namespace. For a more detailed list of features please refer to the [feature page][feature-page].
+The Simple File Browser allows users to browse their file system inside Unity and save and load files without any dependencies e.g. the UnityEditor namespace. For a more detailed list of features please refer to the [feature page][feature-page]{:target="_blank"}.
 
 ##### Technology
 
-The Simple File Browser was developed using the [Unity Engine][unity-3d] since it is used in the _2D Tile Map Level Editor_ and the _Kick It_ game. The Simple File Browser currently supports Windows, Mac and Linux systems and Android devices, while iOS might be supported but this is untested. A portrait interface was developed to better support mobile users. 
+The Simple File Browser was developed using the [Unity Engine][unity-3d]{:target="_blank"} since it is used in the _2D Tile Map Level Editor_ and the _Kick It_ game. The Simple File Browser currently supports Windows, Mac and Linux systems and Android devices, while iOS might be supported but this is untested. A portrait interface was developed to better support mobile users. 
 
 ##### Status
 
-The Simple File Browser was released in the [Unity Asset Store][asset-store] and is open source for users to customize. For more information (features, setup and more) see the [website][website]. The editor is under active development to resolve bugs and open for pull and feature requests.
+The Simple File Browser was released in the [Unity Asset Store][asset-store]{:target="_blank"} and is open source for users to customize. For more information (features, setup and more) see the [website][website]{:target="_blank"}. The editor is under active development to resolve bugs and open for pull and feature requests.
 
 ##### Visuals
 

@@ -10,23 +10,23 @@ language: C#
 ---
 
 {:.p-center}
-[Unity Asset Store][asset-store] and [Website][website]
+[Unity Asset Store][asset-store]{:target="_blank"} and [Website][website]{:target="_blank"}
 
 ##### Motivation
 The 2D Tile Map Level Editor starting out as an in-house tool for developing _Kick-It_ levels but was reworked and released in the Unity Asset Store for free to give other developers the option of adding a level editor to their game and allow easy level creation by players.
 
 ##### Gameplay
 
-The 2D Tile Map Level Editor allows developers to create levels in a fast and intuitive manner. It also allows players to create and share their own levels. For a more detailed list of features please refer to the [feature page][feature-page].
+The 2D Tile Map Level Editor allows developers to create levels in a fast and intuitive manner. It also allows players to create and share their own levels. For a more detailed list of features please refer to the [feature page][feature-page]{:target="_blank"}.
 
 ##### Technology
 
-A prototype of the level editor was developed using the [Unity Engine][unity-3d] since it is used in the _Kick-It_ game. An impression of this prototype was posted on [Reddit][reddit-demo], to determine whether further development would be beneficial.  
+A prototype of the level editor was developed using the [Unity Engine][unity-3d]{:target="_blank"} since it is used in the _Kick-It_ game. An impression of this prototype was posted on [Reddit][reddit-demo]{:target="_blank"}, to determine whether further development would be beneficial.  
 This version was limited in functionality and did not scale according to screen size since it used the deprecated OnGUI method to draw the user interface. The user interface was rebuild using the new Unity Canvas GUI system, to improve user experience.
 
 ##### Status
 
-After adding several features, the 2D Tile Map Level Editor was released in the [Unity Asset Store][asset-store] and is open source for users to customize. For more information (features, setup, and more) see the [website][website]. The editor is under active development to resolve bugs and open for pull and feature requests.
+After adding several features, the 2D Tile Map Level Editor was released in the [Unity Asset Store][asset-store]{:target="_blank"} and is open source for users to customize. For more information (features, setup, and more) see the [website][website]{:target="_blank"}. The editor is under active development to resolve bugs and open for pull and feature requests.
 
 ##### Visuals
 
