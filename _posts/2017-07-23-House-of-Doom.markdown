@@ -9,6 +9,7 @@ language: C++
 ---
 
 {:.p-center}
+[Demo][gamejolt-house-of-doom]{:target="_blank"}  
 [Source Code][github-house-of-doom]{:target="_blank"} and [Website][website]{:target="_blank"}
 
 ##### Motivation
@@ -22,8 +23,8 @@ To focus on showcasing C++ code and gameplay programming, I decided to develop a
 ##### Gameplay
 
 Just like in [Doom (1993)][doom-1993]{:target="_blank"} the objective is simple, survive an onslaught of monsters while progressing through  the game.  
-The player has a variety of weapons, can activate objects (e.g. sliding doors), and has to fight a assortment of enemies (melee, ranged, walking, flying and more).   
-A future feature is to generate rooms to create an endless survival mode.
+The game generates rooms on the fly to create an endless survival mode.
+The player has a variety of weapons, can activate objects (e.g. sliding doors), and has to fight an assortment of enemies (melee, ranged, walking, flying and more). Features to be added continuously.
 
 ##### Technology
 
@@ -38,6 +39,7 @@ House of Doom is under active development, adding new features, enemies and more
 
 <img src="{{ site.baseurl }}/assets/images/house_of_doom/Ingame.png" class="img-responsive img-centered" alt="House of Doom Gameplay">
 
+[gamejolt-house-of-doom]: https://gamejolt.com/games/house-of-doom/362512
 [github-house-of-doom]: https://github.com/GracesGames/UnrealFreedoom
 [website]: https://gracesgames.github.io/UnrealFreedoom/
 [sfml]: https://www.sfml-dev.org/
