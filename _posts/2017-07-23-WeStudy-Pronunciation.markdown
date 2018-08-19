@@ -9,7 +9,7 @@ language: C#
 ---
 
 {:.p-center}
-To be released in the [Google Play Store][google-play-store]{:target="_blank"} and [Apple App Store][apple-app-store]{:target="_blank"}  
+Available in the [Google Play Store][google-play-store]{:target="_blank"} and to be available in the [Apple App Store][apple-app-store]{:target="_blank"}  
 Only available in Vietnam due to privacy policies
 
 ##### Motivation
@@ -26,20 +26,21 @@ The game is over when the predefined amount of words is completed or the health 
 
 ##### Technology
 
-WeStudy Pronunciation is developed in C# using the [Unity Engine][unity-3d]{:target="_blank"}, since it allows a single code base while releasing for both Android and iOS.   
+WeStudy Pronunciation is developed in C# using the [Unity Engine][unity-3d]{:target="_blank"}, since it allows a single code base for both an Android and iOS release.   
 The game uses an external Speech-to-Text module, available in the [Unity Asset Store][speech-to-text]{:target="_blank"}, which support Speech-to-Text for both Android and iOS.  
 Public domain assets from [Kenney][kenney]{:target="_blank"} were used.
 
 ##### Status
 
-WeStudy Pronunciation is currently under development and will be released in the [Google Play Store][google-play-store]{:target="_blank"} and [Apple App Store][apple-app-store]{:target="_blank"}. The game will only be released in Vietnam due to privacy policies.
+The development of the WeStudy Pronunciation is complete. WeStudy took the responsibility of publishing the game to the Google Play Store and Apple App Store. The game will only be available in Vietnam due to privacy policies.   
+The [Google Play Store][google-play-store]{:target="_blank"} version has been published, while the [Apple App Store][apple-app-store]{:target="_blank"} version should be published in the future.
 
 ##### Visuals
 
 <img src="{{ site.baseurl }}/assets/images//westudy_pronunciation/Ingame.png" class="img-responsive img-centered" alt="WeStudy Pronunciation Gameplay">
 <img src="{{ site.baseurl }}/assets/images/westudy_pronunciation/MainMenu.png" class="img-responsive img-centered" alt="WeStudy Pronunciation Main Menu">
 
-[google-play-store]: https://play.google.com/store
+[google-play-store]: https://play.google.com/store/apps/details?id=com.GracesGames.WeStudy
 [apple-app-store]: https://www.apple.com/lae/ios/app-store/
 [westudy]: https://westudy.vn/
 [unity-3d]: https://unity3d.com/unity
