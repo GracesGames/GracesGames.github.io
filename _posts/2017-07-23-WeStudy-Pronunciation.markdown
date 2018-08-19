@@ -32,7 +32,7 @@ Public domain assets from [Kenney][kenney]{:target="_blank"} were used.
 
 ##### Status
 
-The development of the WeStudy Pronunciation is complete. WeStudy took the responsibility of publishing the game to the Google Play Store and Apple App Store. The game will only be available in Vietnam due to privacy policies.   
+The development of the WeStudy Pronunciation game is complete. WeStudy took the responsibility of publishing the game to the Google Play Store and Apple App Store. The game will only be available in Vietnam due to privacy policies.   
 The [Google Play Store][google-play-store]{:target="_blank"} version has been published, while the [Apple App Store][apple-app-store]{:target="_blank"} version should be published in the future.
 
 ##### Visuals
