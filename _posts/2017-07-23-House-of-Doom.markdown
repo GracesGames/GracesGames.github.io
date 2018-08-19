@@ -24,7 +24,8 @@ To focus on showcasing C++ code and gameplay programming, I decided to develop a
 
 Just like in [Doom (1993)][doom-1993]{:target="_blank"} the objective is simple, survive an onslaught of monsters while progressing through  the game.  
 The game generates rooms on the fly to create an endless survival mode.
-The player has a variety of weapons, can activate objects (e.g. sliding doors), and has to fight an assortment of enemies (melee, ranged, walking, flying and more). Features to be added continuously.
+The player has a variety of weapons, can activate objects (e.g. sliding doors), and has to fight an assortment of enemies (melee, ranged, walking, flying and more).  
+Features to be added continuously.
 
 ##### Technology
 
