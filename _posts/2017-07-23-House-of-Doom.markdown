@@ -9,20 +9,20 @@ language: C++
 ---
 
 {:.p-center}
-[Demo][gamejolt-house-of-doom]{:target="_blank"}  
-[Source Code][github-house-of-doom]{:target="_blank"} and [Website][website]{:target="_blank"}
+[Demo][gamejolt-house-of-doom]{:target="_blank"}{:rel="noreferrer"} 
+[Source Code][github-house-of-doom]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
 
 ##### Motivation
 
 After having developed several projects using Unity and C#, it was time to showcase a C++ project.
   
-Several prototypes had already been created in [SFML][sfml]{:target="_blank"} and [Unreal Engine 4][unreal-engine-4]{:target="_blank"} using experience gained from books and online courses (e.g. [Beginning C++ Game Programming][packt-cpp-book]{:target="_blank"} and [Udemy Unreal Course][udemy-unreal-course]{:target="_blank"}). Since the Unreal Engine 4 is more often used in the industry, I opted to use this engine. 
+Several prototypes had already been created in [SFML][sfml]{:target="_blank"}{:rel="noreferrer"} and [Unreal Engine 4][unreal-engine-4]{:target="_blank"}{:rel="noreferrer"} using experience gained from books and online courses (e.g. [Beginning C++ Game Programming][packt-cpp-book]{:target="_blank"}{:rel="noreferrer"} and [Udemy Unreal Course][udemy-unreal-course]{:target="_blank"}{:rel="noreferrer"}). Since the Unreal Engine 4 is more often used in the industry, I opted to use this engine. 
 
-To focus on showcasing C++ code and gameplay programming, I decided to develop a sprite-based shooter. By using sprites, the lighting, animation and level design workload was reduced. Another time-saver are the freely available resources of the [Freedoom Project][freedoom]{:target="_blank"}, giving the game it's old-school graphics.
+To focus on showcasing C++ code and gameplay programming, I decided to develop a sprite-based shooter. By using sprites, the lighting, animation and level design workload was reduced. Another time-saver are the freely available resources of the [Freedoom Project][freedoom]{:target="_blank"}{:rel="noreferrer"}, giving the game it's old-school graphics.
 
 ##### Gameplay
 
-Just like in [Doom (1993)][doom-1993]{:target="_blank"} the objective is simple, survive an onslaught of monsters while progressing through  the game.  
+Just like in [Doom (1993)][doom-1993]{:target="_blank"}{:rel="noreferrer"} the objective is simple, survive an onslaught of monsters while progressing through  the game.  
 The game generates rooms on the fly to create an endless survival mode.
 The player has a variety of weapons, can activate objects (e.g. sliding doors), and has to fight an assortment of enemies (melee, ranged, walking, flying and more).  
 Features to be added continuously.
@@ -34,7 +34,7 @@ The blueprint system of Unreal Engine 4 is used to quickly prototype new feature
 
 ##### Status
 
-House of Doom is under active development, adding new features, enemies and more. The C++ code is freely available on [GitHub][github-house-of-doom]{:target="_blank"} using project name Unreal Freedoom. 
+House of Doom is under active development, adding new features, enemies and more. The C++ code is freely available on [GitHub][github-house-of-doom]{:target="_blank"}{:rel="noreferrer"} using project name Unreal Freedoom. 
 
 ##### Visuals
 

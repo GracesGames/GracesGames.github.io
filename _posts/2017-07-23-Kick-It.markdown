@@ -10,11 +10,11 @@ language: C#
 ---
 
 {:.p-center}
-[Play Here][gamejolt-kick-it]{:target="_blank"}
+[Play Here][gamejolt-kick-it]{:target="_blank"}{:rel="noreferrer"}
 
 ##### Motivation
 
-Kick-It is a re-implementation and extension of my [XNA][wikipedia-xna]{:target="_blank"} game called _Sokoban - Goof Troop_, which is a trimmed down clone of the SNES game [Goof Troop][wikipedia-goof-troop]{:target="_blank"}. It focuses on the [Sokoban][wikipedia-sokoban]{:target="_blank"} inspired puzzles of the game.
+Kick-It is a re-implementation and extension of my [XNA][wikipedia-xna]{:target="_blank"}{:rel="noreferrer"} game called _Sokoban - Goof Troop_, which is a trimmed down clone of the SNES game [Goof Troop][wikipedia-goof-troop]{:target="_blank"}{:rel="noreferrer"}. It focuses on the [Sokoban][wikipedia-sokoban]{:target="_blank"}{:rel="noreferrer"} inspired puzzles of the game.
 
 Where the XNA demo used ripped assets, Kick-It uses public domain assets, thereby allowing it to be published. By using the _2D Tile Map Level Editor_, the game also allows the players to create and share levels. 
 
@@ -28,13 +28,13 @@ Kick-It uses the same concept and game mechanic for the puzzles, yet extends it 
 
 ##### Technology
 
-Like many of my other games, Kick-It was developed in C# using the [Unity Engine][unity-3d]{:target="_blank"}. While some of the _Sokoban - Goof Troop_ code could be reused, the physics and other elements were re-implemented in a more modular and extensible way. This also resulted in simpler building blocks for the level editor.  
-In addition, and matching the original [Goof Troop][wikipedia-goof-troop]{:target="_blank"} game, a two-player mode was added. This also makes solving puzzles more fun.  
-To prevent copyright violations, public domain resources from [Kenney][kenney]{:target="_blank"} were used.
+Like many of my other games, Kick-It was developed in C# using the [Unity Engine][unity-3d]{:target="_blank"}{:rel="noreferrer"}. While some of the _Sokoban - Goof Troop_ code could be reused, the physics and other elements were re-implemented in a more modular and extensible way. This also resulted in simpler building blocks for the level editor.  
+In addition, and matching the original [Goof Troop][wikipedia-goof-troop]{:target="_blank"}{:rel="noreferrer"} game, a two-player mode was added. This also makes solving puzzles more fun.  
+To prevent copyright violations, public domain resources from [Kenney][kenney]{:target="_blank"}{:rel="noreferrer"} were used.
 
 ##### Status
 
-The game is currently on hold to focus on other projects, but a prototype is available on [GameJolt][gamejolt-kick-it]{:target="_blank"}. Additional levels, building blocks and other features will be added at a later moment.
+The game is currently on hold to focus on other projects, but a prototype is available on [GameJolt][gamejolt-kick-it]{:target="_blank"}{:rel="noreferrer"}. Additional levels, building blocks and other features will be added at a later moment.
 
 ##### Visuals
 

@@ -10,7 +10,7 @@ language: C#
 ---
 
 {:.p-center}
-[Play Here][gamejolt-cooperation-codependent]{:target="_blank"}
+[Play Here][gamejolt-cooperation-codependent]{:target="_blank"}{:rel="noreferrer"}
 
 ##### Motivation
 
@@ -31,13 +31,13 @@ In the endless runner, the player controls a runner character with the goal to s
 
 ##### Technology
 
-The first prototype was developed using [Unreal Engine 4][unreal-engine-4]{:target="_blank"}, yet after determining the lack of two-player keyboard support, I switched to [Unity Engine][unity-3d]{:target="_blank"} and C#.  
+The first prototype was developed using [Unreal Engine 4][unreal-engine-4]{:target="_blank"}{:rel="noreferrer"}, yet after determining the lack of two-player keyboard support, I switched to [Unity Engine][unity-3d]{:target="_blank"}{:rel="noreferrer"} and C#.  
 The (then newly released) 2D support of Unity sped up the development process significantly, resulting in a gameplay prototype (version 0.1).  
-After that, the game was polished multiple times using the resources from [Kenney][kenney]{:target="_blank"} and version 0.5 was created.
+After that, the game was polished multiple times using the resources from [Kenney][kenney]{:target="_blank"}{:rel="noreferrer"} and version 0.5 was created.
 
 ##### Status
 
-After several iterations, Co-operation Co-dependent was released with Early Access status on [GameJolt][gamejolt-cooperation-codependent]{:target="_blank"}. While active development has stalled for now to focus on other projects, there are still improvements and ideas to be implemented in the future.
+After several iterations, Co-operation Co-dependent was released with Early Access status on [GameJolt][gamejolt-cooperation-codependent]{:target="_blank"}{:rel="noreferrer"}. While active development has stalled for now to focus on other projects, there are still improvements and ideas to be implemented in the future.
 
 ##### Visuals
 

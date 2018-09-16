@@ -9,7 +9,7 @@ language: Blueprints
 ---
 
 {:.p-center}
-[Unreal Marketplace][unreal-marketplace]{:target="_blank"} and [Website][website]{:target="_blank"}
+[Unreal Marketplace][unreal-marketplace]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
 
 ##### Motivation
 
@@ -23,7 +23,7 @@ The Space Shooter 2D Kit provides the user with an example game that they can ea
 
 In the example game the player has to avoid and shoot enemies while collecting several pickups (nukes, shields and more). The game supports several types of enemies that can easily be extended.  
 Example animations, sound effects and background music are provided. The kit also includes a playable level, main menu, pause menu and a game over screen.  
-For a more detailed list of features please refer to the [feature page][feature-page]{:target="_blank"}.  
+For a more detailed list of features please refer to the [feature page][feature-page]{:target="_blank"}{:rel="noreferrer"}.  
 
 <DIV class="figure-block">
     <iframe width="480" height="270" src="https://www.youtube.com/embed/zbM9OBuXCDg" frameborder="0" allowfullscreen></iframe>
@@ -35,7 +35,7 @@ The template is created using Blueprints, is fully documented and allows easy cu
 
 ##### Status
 
-The Space Shooter 2D Kit is available in the [Unreal Marketplace][unreal-marketplace]{:target="_blank"}. For more information (features, documentation and more) see the [website][website]{:target="_blank"}. The kit is under active development to resolve bugs, add features and open for suggestion and feedback.
+The Space Shooter 2D Kit is available in the [Unreal Marketplace][unreal-marketplace]{:target="_blank"}{:rel="noreferrer"}. For more information (features, documentation and more) see the [website][website]{:target="_blank"}{:rel="noreferrer"}. The kit is under active development to resolve bugs, add features and open for suggestion and feedback.
 
 ##### Visuals
 

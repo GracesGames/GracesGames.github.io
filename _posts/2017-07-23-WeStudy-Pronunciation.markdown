@@ -9,12 +9,12 @@ language: C#
 ---
 
 {:.p-center}
-Available in the [Google Play Store][google-play-store]{:target="_blank"} and to be available in the [Apple App Store][apple-app-store]{:target="_blank"}  
+Available in the [Google Play Store][google-play-store]{:target="_blank"}{:rel="noreferrer"} and to be available in the [Apple App Store][apple-app-store]{:target="_blank"}{:rel="noreferrer"}  
 Only available in Vietnam due to privacy policies
 
 ##### Motivation
 
-While working in a co-working space in Hanoi, Vietnam I was approached by the founder of [WeStudy][westudy]{:target="_blank"} with the request to make a game for them.  
+While working in a co-working space in Hanoi, Vietnam I was approached by the founder of [WeStudy][westudy]{:target="_blank"}{:rel="noreferrer"} with the request to make a game for them.  
 WeStudy is an online learning service that aims to provide quality online courses. The goal of the game was to let users practice their English pronunciation while having fun.  
 The project allowed me to get in touch with new technologies (Speech-to-Text), and get my first experience working on a (remote) freelance project.
 
@@ -26,14 +26,14 @@ The game is over when the predefined amount of words is completed or the health 
 
 ##### Technology
 
-WeStudy Pronunciation is developed in C# using the [Unity Engine][unity-3d]{:target="_blank"}, since it allows a single code base for both an Android and iOS release.   
-The game uses an external Speech-to-Text module, available in the [Unity Asset Store][speech-to-text]{:target="_blank"}, which support Speech-to-Text for both Android and iOS.  
-Public domain assets from [Kenney][kenney]{:target="_blank"} were used.
+WeStudy Pronunciation is developed in C# using the [Unity Engine][unity-3d]{:target="_blank"}{:rel="noreferrer"}, since it allows a single code base for both an Android and iOS release.   
+The game uses an external Speech-to-Text module, available in the [Unity Asset Store][speech-to-text]{:target="_blank"}{:rel="noreferrer"}, which support Speech-to-Text for both Android and iOS.  
+Public domain assets from [Kenney][kenney]{:target="_blank"}{:rel="noreferrer"} were used.
 
 ##### Status
 
 The development of the WeStudy Pronunciation game is complete. WeStudy took the responsibility of publishing the game to the Google Play Store and Apple App Store. The game will only be available in Vietnam due to privacy policies.   
-The [Google Play Store][google-play-store]{:target="_blank"} version has been published, while the [Apple App Store][apple-app-store]{:target="_blank"} version should be published in the future.
+The [Google Play Store][google-play-store]{:target="_blank"}{:rel="noreferrer"} version has been published, while the [Apple App Store][apple-app-store]{:target="_blank"}{:rel="noreferrer"} version should be published in the future.
 
 ##### Visuals
 
