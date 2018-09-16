@@ -5,3 +5,6 @@ _site/
 
 # IDE
 .idea
+
+# Images
+/Resources
