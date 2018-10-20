@@ -38,7 +38,8 @@ House of Doom is under active development, adding new features, enemies and more
 
 ##### Visuals
 
-<img src="{{ site.baseurl }}/assets/images/house_of_doom/Ingame.png" class="img-responsive img-centered" alt="House of Doom Gameplay">
+<img src="{{ site.baseurl }}/assets/images/house_of_doom/Example1.png" class="img-responsive img-centered" alt="House of Doom Shotgun">
+<img src="{{ site.baseurl }}/assets/images/house_of_doom/Example2.png" class="img-responsive img-centered" alt="House of Doom Freeze gun">
 
 [gamejolt-house-of-doom]: https://gamejolt.com/games/house-of-doom/362512
 [github-house-of-doom]: https://github.com/GracesGames/UnrealFreedoom
