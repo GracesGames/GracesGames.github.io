@@ -9,7 +9,9 @@ language: C++
 ---
 
 {:.p-center}
-[Demo][gamejolt-house-of-doom]{:target="_blank"}{:rel="noreferrer"} 
+[Play Demo][gamejolt-house-of-doom]{:target="_blank"}{:rel="noreferrer"} 
+
+{:.p-center}
 [Source Code][github-house-of-doom]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
 
 ##### Motivation
