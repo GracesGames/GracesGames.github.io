@@ -9,8 +9,7 @@ tool: Unity3D
 language: C#
 ---
 
-{:.p-center}
-[Play Here][gamejolt-kick-it]{:target="_blank"}{:rel="noreferrer"}
+<iframe src="https://widgets.gamejolt.com/package/v1?key=LbPFcEBP&theme=light" frameborder="0" width="100%" height="150"></iframe>
 
 ##### Motivation
 

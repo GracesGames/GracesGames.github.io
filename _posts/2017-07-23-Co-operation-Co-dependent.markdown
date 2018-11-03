@@ -9,8 +9,7 @@ tool: Unity3D
 language: C#
 ---
 
-{:.p-center}
-[Play Here][gamejolt-cooperation-codependent]{:target="_blank"}{:rel="noreferrer"}
+<iframe src="https://widgets.gamejolt.com/package/v1?key=z2XdDsHG&theme=light" frameborder="0" width="100%" height="150"></iframe>
 
 ##### Motivation
 

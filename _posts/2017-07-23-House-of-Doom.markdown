@@ -9,7 +9,7 @@ language: C++
 ---
 
 {:.p-center}
-[Play Demo][gamejolt-house-of-doom]{:target="_blank"}{:rel="noreferrer"} 
+<iframe src="https://widgets.gamejolt.com/package/v1?key=YrPzgpag&theme=light" frameborder="0" width="100%" height="210"></iframe>
 
 {:.p-center}
 [Source Code][github-house-of-doom]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
