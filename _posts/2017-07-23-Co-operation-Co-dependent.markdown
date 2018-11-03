@@ -26,7 +26,7 @@ In the space shooter, the player controls a spaceship with the goal to shoot and
 In the endless runner, the player controls a runner character with the goal to survive the endless spree of enemies and pitfalls, while collecting bullets along the way. These bullets are used by the spaceship player to shoot enemies. Both players can also pick up diamonds to further increase their shared score.
 
 <DIV class="figure-block">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ttoEdCzgCxA" frameborder="0" allowfullscreen ></iframe>
+    <iframe width="80%" height="350" src="https://www.youtube.com/embed/ttoEdCzgCxA" frameborder="0" allowfullscreen ></iframe>
 </DIV>
 
 ##### Technology

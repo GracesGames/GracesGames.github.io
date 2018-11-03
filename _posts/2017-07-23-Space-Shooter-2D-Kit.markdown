@@ -26,7 +26,7 @@ Example animations, sound effects and background music are provided. The kit als
 For a more detailed list of features please refer to the [feature page][feature-page]{:target="_blank"}{:rel="noreferrer"}.  
 
 <DIV class="figure-block">
-    <iframe width="480" height="270" src="https://www.youtube.com/embed/zbM9OBuXCDg" frameborder="0" allowfullscreen></iframe>
+    <iframe width="80%" height="350" src="https://www.youtube.com/embed/zbM9OBuXCDg" frameborder="0" allowfullscreen></iframe>
 </DIV>
 
 ##### Technology
