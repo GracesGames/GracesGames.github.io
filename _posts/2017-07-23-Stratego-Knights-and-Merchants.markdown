@@ -14,14 +14,14 @@ language: C#
 Inspired by the childhood nostalgia of the game [Knights and Merchants: The Shattered Kingdom][wikipedia-kam]{:target="_blank"}{:rel="noreferrer"}, my first developed game was the board game [Stratego][wikipedia-stratego]{:target="_blank"}{:rel="noreferrer"}. 
 
 A board game was chosen since the turn-based system results in less complexity and also removes the need to simulate (real-time) physics.   
-Stratego fitted the different types of Knights and Merchants soldiers quite well and its rules complied to the used grid system and tile engine.
+Stratego fitted the different types of Knights and Merchants soldiers quite well and the rules complied to the used grid system and tile engine.
 
 ##### Gameplay
 
 Each game of Stratego starts with the setup phase, where both players place their army on the field. When completed, the game starts turn-based until one of the players captures the other player's flag.   
 Each turn, the player moves a piece on the board and when the new location contains an enemy piece, a soldier battle starts.   
 The general rule is that soldiers with higher numbers beat lower numbers, but there are some special pieces like the bomb which can only be swept by the miner.  
-For more information please read the [Stratego Wikipedia][wikipedia-stratego]{:target="_blank"}{:rel="noreferrer"}.
+For more information please read the [Stratego Wikipedia page][wikipedia-stratego]{:target="_blank"}{:rel="noreferrer"}.
 
 ##### Technology
 
@@ -31,7 +31,7 @@ The sprites and songs were ripped from the Knights and Merchants CD using third-
 ##### Status
 
 The game is not in development anymore even though it has been successfully converted to the [MonoGame framework][monogame]{:target="_blank"}{:rel="noreferrer"} after the XNA framework discontinued.  
-It is not available online because copyright laws would be violated, but should be seen as a tribute to the classic Knights and Merchants game.
+It is not available online since copyright laws would be violated, but should be seen as a tribute to the classic Knights and Merchants game.
 
 ##### Visuals
 

@@ -15,7 +15,7 @@ language: C#
 
 Kick-It is a re-implementation and extension of my [XNA][wikipedia-xna]{:target="_blank"}{:rel="noreferrer"} game called _Sokoban - Goof Troop_, which is a trimmed down clone of the SNES game [Goof Troop][wikipedia-goof-troop]{:target="_blank"}{:rel="noreferrer"}. It focuses on the [Sokoban][wikipedia-sokoban]{:target="_blank"}{:rel="noreferrer"} inspired puzzles of the game.
 
-Where the XNA demo used ripped assets, Kick-It uses public domain assets, thereby allowing it to be published. By using the _2D Tile Map Level Editor_, the game also allows the players to create and share levels. 
+Where the XNA version used ripped assets, Kick-It uses public domain assets, thereby allowing it to be published. By using the _2D Tile Map Level Editor_, the game also allows the players to create and share levels. 
 
 ##### Gameplay
 

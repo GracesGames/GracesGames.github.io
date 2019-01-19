@@ -13,7 +13,7 @@ language: C#
 
 ##### Motivation
 
-After releasing the _2D Tile Map Level Editor_ in the Unity Asset Store, a GitHub issue was created that the project did not build. Having used only the source code version until then, I confirmed that building was not possible since the Unity Editor namespace was required in the project. The namespace was used for the EditorUtility.OpenFilePanel and EditorUtility.SaveFilePanel methods used to save files.
+After releasing the _2D Tile Map Level Editor_ in the Unity Asset Store, a [GitHub issue][github-issue]{:target="_blank"}{:rel="noreferrer"} was created that the project did not build. Having used only the source code version until then, I confirmed that building was not possible since the Unity Editor namespace was required in the project. The namespace was used for the EditorUtility.OpenFilePanel and EditorUtility.SaveFilePanel methods used to save files.
 
 A solution to this problem, would be to create my own file browser. After some research, I also noticed a great lack of free and open source file browsers in the Unity Asset Store. So, I created the Simple File Browser, which allows the user to browse their file system and to save and load files. 
 
@@ -27,7 +27,7 @@ The Simple File Browser was developed using the [Unity Engine][unity-3d]{:target
 
 ##### Status
 
-The Simple File Browser was released in the [Unity Asset Store][asset-store]{:target="_blank"}{:rel="noreferrer"} and is open source for users to customize. For more information (features, setup and more) see the [website][website]{:target="_blank"}{:rel="noreferrer"}. The editor is under active development to resolve bugs and open for pull and feature requests.
+The Simple File Browser was released in the [Unity Asset Store][asset-store]{:target="_blank"}{:rel="noreferrer"} and is open source available for users to customize. For more information (features, setup and more) see the [website][website]{:target="_blank"}{:rel="noreferrer"}. The editor is under active development to resolve bugs and open for pull and feature requests.
 
 ##### Visuals
 
@@ -44,6 +44,7 @@ The Simple File Browser was released in the [Unity Asset Store][asset-store]{:ta
 
 
 [asset-store]: https://assetstore.unity.com/packages/tools/input-management/simple-file-browser-98451
-[website]: https://gracesgames.github.io/SimpleFileBrowser/
-[feature-page]: https://gracesgames.github.io/SimpleFileBrowser/features/
+[website]: https://gracesgames.com/SimpleFileBrowser/
+[github-issue]: https://github.com/GracesGames/2DTileMapLevelEditor/issues/5
+[feature-page]: https://gracesgames.com/SimpleFileBrowser/features/
 [unity-3d]: https://unity3d.com/unity

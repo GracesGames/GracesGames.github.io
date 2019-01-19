@@ -26,7 +26,7 @@ This version was limited in functionality and did not scale according to screen 
 
 ##### Status
 
-After adding several features, the 2D Tile Map Level Editor was released in the [Unity Asset Store][asset-store]{:target="_blank"}{:rel="noreferrer"} and is open source for users to customize. For more information (features, setup, and more) see the [website][website]{:target="_blank"}{:rel="noreferrer"}. The editor is under active development to resolve bugs and open for pull and feature requests.
+After adding several features, the 2D Tile Map Level Editor was released in the [Unity Asset Store][asset-store]{:target="_blank"}{:rel="noreferrer"} and is open source available for users to customize. For more information (features, setup, and more) see the [website][website]{:target="_blank"}{:rel="noreferrer"}. The editor is under active development to resolve bugs and open for pull and feature requests.
 
 ##### Visuals
 
@@ -34,7 +34,7 @@ After adding several features, the 2D Tile Map Level Editor was released in the 
 <img src="{{site.baseurl}}/assets/images/2D_tile_map_level_editor/Sokoban-Preview.png" class="img-responsive img-centered" alt="Sokoban Preview"/>
 
 [asset-store]: https://assetstore.unity.com/packages/tools/sprite-management/2d-tile-map-level-editor-90420
-[website]: https://gracesgames.github.io/2DTileMapLevelEditor/
-[feature-page]: https://gracesgames.github.io/2DTileMapLevelEditor/features/
+[website]: https://gracesgames.com/2DTileMapLevelEditor/
+[feature-page]: https://gracesgames.com/2DTileMapLevelEditor/features/
 [unity-3d]: https://unity3d.com/unity
 [reddit-demo]: https://www.reddit.com/r/Unity2D/comments/641toe/made_an_2d_ingame_level_editor_anyone_interested/
