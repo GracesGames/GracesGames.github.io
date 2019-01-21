@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 title:  Kick-It
-date: 2014-07-15
+date: 2014-07-16
 img: Kick-It-Index-Image.png
 alt: Kick-It
 tool: Unity3D

@@ -2,7 +2,7 @@
 layout: default
 modal-id: 9
 title:  Stratego - Knights and Merchants
-date: 2014-07-10
+date: 2014-07-13
 img: KAM-Index-Image.png
 alt: Knights-And-Merchants
 tool: XNA

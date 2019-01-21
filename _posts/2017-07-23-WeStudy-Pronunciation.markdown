@@ -1,7 +1,7 @@
 ---
 layout: default
-modal-id: 2
-date: 2014-07-20
+modal-id: 7
+date: 2014-07-15
 img: WeStudy-Index-Image.png
 alt: WeStudy-Pronunciation
 tool: Unity3D
