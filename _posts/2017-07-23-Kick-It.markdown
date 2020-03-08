@@ -9,42 +9,25 @@ tool: Unity3D
 language: C#
 ---
 
-<iframe src="https://widgets.gamejolt.com/package/v1?key=LbPFcEBP&theme=light" frameborder="0" width="100%" height="150"></iframe>
+<iframe src="https://widgets.gamejolt.com/package/v1?key=LbPFcEBP&theme=dark" frameborder="0" width="100%" height="150"></iframe>
 
-##### Motivation
+Kick-It is a re-implementation of the [Sokoban][wikipedia-sokoban]{:target="_blank"}{:rel="noreferrer"} inspired puzzles of the SNES game [Goof Troop][wikipedia-goof-troop]{:target="_blank"}{:rel="noreferrer"}, yet extends it with game elements such as turrets, directional arrows and more.
 
-Kick-It is a re-implementation and extension of my [XNA][wikipedia-xna]{:target="_blank"}{:rel="noreferrer"} game called _Sokoban - Goof Troop_, which is a trimmed down clone of the SNES game [Goof Troop][wikipedia-goof-troop]{:target="_blank"}{:rel="noreferrer"}. It focuses on the [Sokoban][wikipedia-sokoban]{:target="_blank"}{:rel="noreferrer"} inspired puzzles of the game.
+Next to that, the game allows the player to create and share levels, using the [2D Tile Map Level Editor][2d-editor]{:target="_blank"}{:rel="noreferrer"}. 
 
-Where the XNA version used ripped assets, Kick-It uses public domain assets, thereby allowing it to be published. By using the _2D Tile Map Level Editor_, the game also allows the players to create and share levels. 
+Each puzzle contains several movable cubes, and a set of goal positions. The main game mechanic from the game is the player kicking the cubes into one direction. The catch is that once a cube is moving, it can only by stopped by colliding with another level piece. 
 
-##### Gameplay
+The puzzles will get tougher and more dangerous. If you are ready for a brain teaser and adventure, alone or with a friend, hit that play button!
 
-Each puzzle contains several movable cubes, and a set of goal positions. The GIF below shows the main game mechanic from the XNA demo, the player kicking the cubes into one direction. The catch is that once a cube is moving, it can only by stopped by colliding with another level piece. 
-
-<img src="{{ site.baseurl }}/assets/images/sokoban_goof_troop/Kicking-Mechanic.gif" class="img-responsive img-centered" alt="Main game mechanic">
-
-Kick-It uses the same concept and game mechanic for the puzzles, yet extends it with game elements such as turrets, directional arrows and more. 
-
-##### Technology
-
-Like many of my other games, Kick-It was developed in C# using the [Unity Engine][unity-3d]{:target="_blank"}{:rel="noreferrer"}. While some of the _Sokoban - Goof Troop_ code could be reused, the physics and other elements were re-implemented in a more modular and extensible way. This also resulted in simpler building blocks for the level editor.  
-In addition, and matching the original [Goof Troop][wikipedia-goof-troop]{:target="_blank"}{:rel="noreferrer"} game, a two-player mode was added. This also makes solving puzzles more fun.  
-To prevent copyright violations, public domain resources from [Kenney][kenney]{:target="_blank"}{:rel="noreferrer"} were used.
-
-##### Status
-
-The game is currently on hold to focus on other projects, but a prototype is available on [GameJolt][gamejolt-kick-it]{:target="_blank"}{:rel="noreferrer"}. Additional levels, building blocks and other features will be added at a later moment.
-
+The main features are:
+- Puzzles that start simple but get tougher as the player progresses
+- Able to play alone or with a friend
+- Allows the user to create and share their own levels
+ 
 ##### Visuals
 
-The images below show a comparison of the original _Sokoban - Goof Troop_ level and the (work in progress) rework in Kick-It.
-
-<img src="{{site.baseurl}}/assets/images/sokoban_goof_troop/Level1.png" class="img-responsive img-centered" alt="Goof Troop level"/>
 <img src="{{site.baseurl}}/assets/images/kick_it/Kick-It-Goof-Troop-1.png" class="img-responsive img-centered" alt="Kick-It level"/>
 
-[wikipedia-xna]: https://en.wikipedia.org/wiki/Microsoft_XNA
 [wikipedia-goof-troop]: https://en.wikipedia.org/wiki/Goof_Troop_(video_game)
 [wikipedia-sokoban]: https://en.wikipedia.org/wiki/Sokoban
-[gamejolt-kick-it]: https://gamejolt.com/games/kick-it/262925#close
-[unity-3d]: https://unity3d.com/unity
-[kenney]: https://kenney.nl/
+[2d-editor]: https://gracesgames.com/2DTileMapLevelEditor/

@@ -11,23 +11,21 @@ language: C#
 {:.p-center}
 [Unity Asset Store][asset-store]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
 
-##### Motivation
+The Simple File Browser allows users to browse the file system in the Unity Editor and their Unity Game and save and load files without any dependencies e.g. the UnityEditor namespace.
 
-After releasing the _2D Tile Map Level Editor_ in the Unity Asset Store, a [GitHub issue][github-issue]{:target="_blank"}{:rel="noreferrer"} was created that the project did not build. Having used only the source code version until then, I confirmed that building was not possible since the Unity Editor namespace was required in the project. The namespace was used for the EditorUtility.OpenFilePanel and EditorUtility.SaveFilePanel methods used to save files.
+The Simple File Browser currently supports Windows, Mac and Linux systems and Android devices, while iOS might be supported but this is untested. A portrait interface was developed to better support mobile users. 
 
-A solution to this problem, would be to create my own file browser. After some research, I also noticed a great lack of free and open source file browsers in the Unity Asset Store. So, I created the Simple File Browser, which allows the user to browse their file system and to save and load files. 
+It is available open-source and fully customizable to support the needs of your game
 
-##### Gameplay
+The main features are:
+- Easy navigation through file system
+- Save and load files
+- Enforce and filter on file extension
+- Search for files in each directory
+- Define the default directory
+- Support for multiple drives
 
-The Simple File Browser allows users to browse their file system inside Unity and save and load files without any dependencies e.g. the UnityEditor namespace. For a more detailed list of features please refer to the [feature page][feature-page]{:target="_blank"}{:rel="noreferrer"}.
-
-##### Technology
-
-The Simple File Browser was developed using the [Unity Engine][unity-3d]{:target="_blank"}{:rel="noreferrer"} since it is used in the _2D Tile Map Level Editor_ and the _Kick It_ game. The Simple File Browser currently supports Windows, Mac and Linux systems and Android devices, while iOS might be supported but this is untested. A portrait interface was developed to better support mobile users. 
-
-##### Status
-
-The Simple File Browser was released in the [Unity Asset Store][asset-store]{:target="_blank"}{:rel="noreferrer"} and is open source available for users to customize. For more information (features, setup and more) see the [website][website]{:target="_blank"}{:rel="noreferrer"}. The editor is under active development to resolve bugs and open for pull and feature requests.
+For a more detailed list of features please refer to the [feature page][feature-page]{:target="_blank"}{:rel="noreferrer"}.
 
 ##### Visuals
 
@@ -45,6 +43,4 @@ The Simple File Browser was released in the [Unity Asset Store][asset-store]{:ta
 
 [asset-store]: https://assetstore.unity.com/packages/tools/input-management/simple-file-browser-98451
 [website]: https://gracesgames.com/SimpleFileBrowser/
-[github-issue]: https://github.com/GracesGames/2DTileMapLevelEditor/issues/5
 [feature-page]: https://gracesgames.com/SimpleFileBrowser/features/
-[unity-3d]: https://unity3d.com/unity

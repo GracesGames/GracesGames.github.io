@@ -28,8 +28,6 @@ social:
     url: mailto:GracesGamesBV@gmail.com
   - title: fab fa-fw fa-discord
     url: https://discord.gg/DBwFAES
-  - title: fab fa-fw fa-github
-    url: https://github.com/GracesGames
   - title: fa fa-fw fa-bolt # Game Jolt
     url: https://gamejolt.com/@GracesGames#close
 
