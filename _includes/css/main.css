@@ -208,6 +208,16 @@ section.success {
     max-width: 400px;
 }
 
+#products .products-item .product-title {
+    display: block;
+    padding-top: 8px;
+    color: #222022;
+    font-size: 20px;
+    position: relative;
+    margin: 0 auto;
+    max-width: 400px;
+}
+
 #products .products-item .product-link .caption {
     position: absolute;
     width: 100%;
@@ -245,6 +255,10 @@ section.success {
 
 #products * {
     z-index: 2;
+}
+
+#products .products-grid {
+    padding-top: 40px;
 }
 
 @media(min-width:767px) {

@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 4
+title: Simple File Browser
 date: 2014-07-18
 img: Simple-File-Browser-Index-Image.png
 alt: Simple-File-Browser

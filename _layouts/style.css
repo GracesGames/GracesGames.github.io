@@ -5,7 +5,7 @@ header, #about, hr.star-light::after {
     background: #6ead3a;
 }
 
-div.modal-body p, #about p {
+div.modal-body p {
     text-align: left;
     margin: 0 0 30px 0;
 }

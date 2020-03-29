@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 1
+title: Push Push Puzzle 2D Kit
 date: 2014-07-21
 img: PushPushPuzzle2DKit-Index-Image.png
 alt: Push-Push-Puzzle-2D-Kit

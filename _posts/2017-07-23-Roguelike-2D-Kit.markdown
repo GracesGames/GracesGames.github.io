@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 2
+title: Roguelike 2D Kit
 date: 2014-07-20
 img: Roguelike2DKit-Index-Image.png
 alt: Roguelike-2D-Kit
@@ -36,13 +37,13 @@ For a complete overview, see the [features page][feature-page]{:target="_blank"}
 ##### Gameplay
 
 <DIV class="figure-block">
-    <iframe width="80%" height="350" src="https://www.youtube.com/embed/ZcllQdTq2e4" frameborder="0" allowfullscreen></iframe>
+    <iframe width="80%" height="350" src="https://www.youtube.com/embed/Oq-Ryr-IpX8" frameborder="0" allowfullscreen></iframe>
 </DIV>
 
 ##### Visuals
 
-<img src="{{site.baseurl}}/assets/images/roguelike_2d_kit/Gameplay.png" class="img-responsive img-centered" alt="Gameplay"/>
-<img src="{{site.baseurl}}/assets/images/roguelike_2d_kit/MobileGameplay.png" class="img-responsive img-centered" alt="MobileGameplay"/>
+<img src="{{site.baseurl}}/assets/images/roguelike_2d_kit/GameplayExample1.png" class="img-responsive img-centered" alt="Gameplay Example 1"/>
+<img src="{{site.baseurl}}/assets/images/roguelike_2d_kit/GameplayExample2.png" class="img-responsive img-centered" alt="Gameplay Example 2"/>
 
 [unreal-marketplace]: https://www.unrealengine.com/marketplace/roguelike-2d-kit
 [website]: https://gracesgames.com/Roguelike2DKit/
