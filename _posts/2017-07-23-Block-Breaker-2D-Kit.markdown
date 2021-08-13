@@ -36,7 +36,7 @@ For a complete overview, see the [features page][feature-page]{:target="_blank"}
 ##### Visuals
 
 <img src="{{site.baseurl}}/assets/images/block_breaker_2d_kit/LevelExample.png" class="img-responsive img-centered" alt="LevelExample"/>
-<img src="{{site.baseurl}}/assets/images/block_breaker_2d_kit/LevelInProgress.png" class="img-responsive img-centered" alt="LevelInProgress"/>
+<img src="{{site.baseurl}}/assets/images/block_breaker_2d_kit/LevelInProgress.PNG" class="img-responsive img-centered" alt="LevelInProgress"/>
 
 [unreal-marketplace]: https://www.unrealengine.com/marketplace/block-breaker-2d-kit
 [website]: https://gracesgames.com/BlockBreaker2DKit/
