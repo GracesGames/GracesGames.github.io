@@ -35,6 +35,12 @@ The main features are:
 
 For a complete overview, see the [features page][feature-page]{:target="_blank"}{:rel="noreferrer"}
 
+##### Gameplay
+
+<DIV class="figure-block">
+    <iframe width="80%" height="350" src="https://www.youtube.com/watch?v=GvAWMq-ee-g" frameborder="0" allowfullscreen></iframe>
+</DIV>
+
 ##### Visuals
 
 <img src="{{site.baseurl}}/assets/images/turn_based_shooter_kit/LevelExample.png" class="img-responsive img-centered" alt="LevelExample"/>
