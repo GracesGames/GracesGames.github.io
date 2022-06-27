@@ -2,7 +2,7 @@
 {% include css/main.css %}
 
 header, #about, hr.star-light::after {
-    background: #6ead3a;
+    background: #267bb7;
 }
 
 div.modal-body p {
