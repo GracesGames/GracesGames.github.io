@@ -36,7 +36,7 @@ For a complete overview, see the [features page][feature-page]{:target="_blank"}
 ##### Gameplay
 
 <DIV class="figure-block">
-    <iframe width="80%" height="350" src="https://www.youtube.com/embed/zbM9OBuXCDg" frameborder="0" allowfullscreen></iframe>
+    <iframe width="80%" height="350" src="https://www.youtube.com/embed/RAN_o9HlISc" frameborder="0" allowfullscreen></iframe>
 </DIV>
 
 ##### Visuals
