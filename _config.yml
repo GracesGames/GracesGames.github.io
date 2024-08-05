@@ -22,11 +22,11 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: fa fa-fw fa-envelope fa-2x # Email
+  - title: fa fa-fw fa-envelope # Email
     url: mailto:contact@gracesgames.com
-  - title: fab fa-fw fa-discord fa-2x # Discord
+  - title: fab fa-fw fa-discord # Discord
     url: https://discord.gg/DnNyEMKWca
-  - title: fa fa-fw fa-bolt fa-2x # Game Jolt
+  - title: fa fa-fw fa-bolt # Game Jolt
     url: https://gamejolt.com/@GracesGames#close
 
 # Build settings
