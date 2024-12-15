@@ -38,6 +38,6 @@ For a complete overview, see the [features page][feature-page]{:target="_blank"}
 <img src="{{site.baseurl}}/assets/images/block_breaker_2d_kit/LevelExample.png" class="img-responsive img-centered" alt="LevelExample"/>
 <img src="{{site.baseurl}}/assets/images/block_breaker_2d_kit/LevelInProgress.PNG" class="img-responsive img-centered" alt="LevelInProgress"/>
 
-[fab]: https://www.fab.com/listings/2004b211-8551-4792-9576-a98a50eddf46
+[fab]: https://www.fab.com/listings/ce7ed902-bdc1-4524-9506-7394a4c989f8
 [website]: https://gracesgames.com/BlockBreaker2DKit/
 [feature-page]: https://gracesgames.com/BlockBreaker2DKit/features/
