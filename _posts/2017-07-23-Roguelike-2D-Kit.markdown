@@ -12,7 +12,7 @@ language: Blueprints
 <iframe src="https://widgets.gamejolt.com/package/v1?key=i2dzMirW&theme=dark" frameborder="0" width="100%" height="190"></iframe>  
 
 {:.p-center}
-[Unreal Marketplace][unreal-marketplace]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
+[Fab][fab]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
 
 The Roguelike 2D Kit is an easy to use template for creating top down roguelike type of games in 2D!
 
@@ -45,6 +45,6 @@ For a complete overview, see the [features page][feature-page]{:target="_blank"}
 <img src="{{site.baseurl}}/assets/images/roguelike_2d_kit/GameplayExample1.png" class="img-responsive img-centered" alt="Gameplay Example 1"/>
 <img src="{{site.baseurl}}/assets/images/roguelike_2d_kit/GameplayExample2.png" class="img-responsive img-centered" alt="Gameplay Example 2"/>
 
-[unreal-marketplace]: https://www.unrealengine.com/marketplace/roguelike-2d-kit
+[fab]: https://www.fab.com/listings/5a047a3e-c7fb-4857-85cb-0cac226a1a95
 [website]: https://gracesgames.com/Roguelike2DKit/
 [feature-page]:https://gracesgames.com/Roguelike2DKit/features/

@@ -12,7 +12,7 @@ language: Blueprints
 <iframe src="https://widgets.gamejolt.com/package/v1?key=AAbt97Rb&theme=dark" frameborder="0" width="100%" height="190"></iframe>  
 
 {:.p-center}
-[Unreal Marketplace][unreal-marketplace]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
+[Fab][fab]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
 
 The Space Shooter 2D Kit is an easy to use template for creating top down space shooter type of games in 2D!
 
@@ -44,6 +44,6 @@ For a complete overview, see the [features page][feature-page]{:target="_blank"}
 <img src="{{site.baseurl}}/assets/images/space_shooter_2d_kit/Gameplay.png" class="img-responsive img-centered" alt="Ingame"/>
 <img src="{{site.baseurl}}/assets/images/space_shooter_2d_kit/ShipSelect.png" class="img-responsive img-centered" alt="MainMenu"/>
 
-[unreal-marketplace]: https://www.unrealengine.com/marketplace/space-shooter-2d-kit
+[fab]: https://www.fab.com/listings/cec8c8a8-a67f-4ba2-8a99-ca31093b2f13
 [website]: https://gracesgames.com/SpaceShooter2DKit/
 [feature-page]: https://gracesgames.com/SpaceShooter2DKit/features/

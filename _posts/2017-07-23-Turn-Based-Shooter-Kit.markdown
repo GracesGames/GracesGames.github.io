@@ -12,7 +12,7 @@ language: Blueprints
 <iframe src="https://widgets.gamejolt.com/package/v1?key=A4xbUmY9&theme=dark" frameborder="0" width="100%" height="190"></iframe>  
 
 {:.p-center}
-[Unreal Marketplace][unreal-marketplace]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
+[Fab][fab]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
 
 The Turn Based Shooter Kit is an easy to use template for creating first-person turn-based shooter type of games!
 While the kit uses sprite visuals and a shooter setting, the logic can easily be applied to 3D models and a fantasy setting.
@@ -46,6 +46,6 @@ For a complete overview, see the [features page][feature-page]{:target="_blank"}
 <img src="{{site.baseurl}}/assets/images/turn_based_shooter_kit/LevelExample.png" class="img-responsive img-centered" alt="LevelExample"/>
 <img src="{{site.baseurl}}/assets/images/turn_based_shooter_kit/LevelInProgress.PNG" class="img-responsive img-centered" alt="LevelInProgress"/>
 
-[unreal-marketplace]: https://www.unrealengine.com/marketplace/turn-based-shooter-kit
+[fab]: https://www.fab.com/listings/84cf0cc1-522a-4033-a090-d4196b8c199a
 [website]: https://gracesgames.com/TurnBasedShooterKit/
 [feature-page]: https://gracesgames.com/TurnBasedShooterKit/features/

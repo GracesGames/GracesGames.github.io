@@ -10,7 +10,7 @@ language: Blueprints
 ---
 
 {:.p-center}
-[Unreal Marketplace][unreal-marketplace]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
+[Fab][fab]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
 
 Interactive Tile Map allows you to add interactive elements to your tile map without manually placing them. 
 This will allow you to use the tile map editor as a level editor, thereby speeding up your level design process.
@@ -47,6 +47,6 @@ For a complete overview, see the [features page][feature-page]{:target="_blank"}
 <img src="{{site.baseurl}}/assets/images/interactive_tile_map/TileMapImage.PNG" class="img-responsive img-centered" alt="TileMapImage"/>
 <img src="{{site.baseurl}}/assets/images/interactive_tile_map/Settings.PNG" class="img-responsive img-centered" alt="Settings"/>
 
-[unreal-marketplace]: https://www.unrealengine.com/marketplace/interactive-tile-map
+[fab]: https://www.fab.com/listings/1052edf8-7752-4cb7-8bab-a96e38d712ff
 [website]: https://gracesgames.com/InteractiveTileMap/
 [feature-page]: https://gracesgames.com/InteractiveTileMap/features/

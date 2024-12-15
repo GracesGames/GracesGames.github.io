@@ -12,7 +12,7 @@ language: Blueprints
 <iframe src="https://widgets.gamejolt.com/package/v1?key=R2df7EYr&theme=dark" frameborder="0" width="100%" height="190"></iframe>  
 
 {:.p-center}
-[Unreal Marketplace][unreal-marketplace]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
+[Fab][fab]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
 
 The Block Breaker 2D Kit is an easy to use template for creating Block Breaker type of games in 2D!
 
@@ -38,6 +38,6 @@ For a complete overview, see the [features page][feature-page]{:target="_blank"}
 <img src="{{site.baseurl}}/assets/images/block_breaker_2d_kit/LevelExample.png" class="img-responsive img-centered" alt="LevelExample"/>
 <img src="{{site.baseurl}}/assets/images/block_breaker_2d_kit/LevelInProgress.PNG" class="img-responsive img-centered" alt="LevelInProgress"/>
 
-[unreal-marketplace]: https://www.unrealengine.com/marketplace/block-breaker-2d-kit
+[fab]: https://www.fab.com/listings/2004b211-8551-4792-9576-a98a50eddf46
 [website]: https://gracesgames.com/BlockBreaker2DKit/
 [feature-page]: https://gracesgames.com/BlockBreaker2DKit/features/

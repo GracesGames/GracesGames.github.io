@@ -12,7 +12,7 @@ language: Blueprints
 <iframe src="https://widgets.gamejolt.com/package/v1?key=PR3UeSoH&theme=dark" frameborder="0" width="100%" height="190"></iframe>  
 
 {:.p-center}
-[Unreal Marketplace][unreal-marketplace]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
+[Fab][fab]{:target="_blank"}{:rel="noreferrer"} and [Website][website]{:target="_blank"}{:rel="noreferrer"}
 
 The Push Push Puzzle 2D Kit is an easy to use template for creating top down Push Push or Sokoban type of games in 2D!
 
@@ -44,6 +44,6 @@ For a complete overview, see the [features page][feature-page]{:target="_blank"}
 <img src="{{site.baseurl}}/assets/images/push_push_puzzle_2d_kit/Level.png" class="img-responsive img-centered" alt="Level"/>
 <img src="{{site.baseurl}}/assets/images/push_push_puzzle_2d_kit/LevelComplete.png" class="img-responsive img-centered" alt="LevelComplete"/>
 
-[unreal-marketplace]: https://www.unrealengine.com/marketplace/push-push-puzzle-2d-kit
+[fab]: https://www.fab.com/listings/2004b211-8551-4792-9576-a98a50eddf46
 [website]: https://gracesgames.com/PushPushPuzzle2DKit/
 [feature-page]: https://gracesgames.com/PushPushPuzzle2DKit/features/
